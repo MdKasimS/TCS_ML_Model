@@ -1,0 +1,1564 @@
+ID,Variant,Model,OEM,CarModel_ID,OEM_ID
+1,Vista Aqua 1.4 TDI,Indica,Tata,1,1
+2,Lx BSIV,Nano,Tata,2,1
+3,Vista Aqua TDI BSIII,Indica,Tata,1,1
+4,R LXI Minor,Wagon,Maruti,3,2
+5,LT,Beat,Chevrolet,4,3
+6,Lx,Nano,Tata,2,1
+7,Estilo VXI BSIV,Zen,Maruti,5,2
+8,Vxi,A-Star,Maruti,6,2
+9,Diesel LS,Beat,Chevrolet,4,3
+10,TDI,Indigo,Tata,7,1
+11,LX,Alto,Maruti,8,2
+12,VDi,Ritz,Maruti,9,2
+13,1.0 LS,Spark,Chevrolet,10,3
+14,Vista Terra 1.4 TDI,Indica,Tata,1,1
+15,LS BSII,Indigo,Tata,7,1
+16,800 LXI,Alto,Maruti,8,2
+17,CX SE,Nano,Tata,2,1
+18,Magna 1.2,i10,Hyundai,11,4
+19,Executive,Accent,Hyundai,12,4
+20,Titanium 1.5 TDCi,Fiesta,Ford,13,5
+21,Era Plus,EON,Hyundai,14,4
+22,1.0 Era Plus,EON,Hyundai,14,4
+23,D Lite Plus,EON,Hyundai,14,4
+24,Vista Quadrajet LS,Indica,Tata,1,1
+25,Diesel Titanium,Figo,Ford,15,5
+26,Diesel Trendline 1.2L,Polo,Volkswagen,16,6
+27,Vista Aura 1.2 Safire,Indica,Tata,1,1
+28,Aura (ABS) Safire BS IV,Manza,Tata,17,1
+29,Vista Aqua 1.3 Quadrajet,Indica,Tata,1,1
+30,1.0 LT,Spark,Chevrolet,10,3
+31,CR4,Indigo,Tata,7,1
+32,LXi,Alto,Maruti,8,2
+33,LX,Indigo,Tata,7,1
+34,Vista TDI LX,Indica,Tata,1,1
+35,MPI STD BSIV,Omni,Maruti,18,2
+36,1.0 LT BS3,Spark,Chevrolet,10,3
+37,K10 LXI,Alto,Maruti,8,2
+38,CS LE (TDI) BS-III,Indigo,Tata,7,1
+39,Aura Safire BS IV,Manza,Tata,17,1
+40,Diesel LT,Beat,Chevrolet,4,3
+41,Executive CNG,Accent,Hyundai,12,4
+42,Vista Aqua 1.2 Safire BSIV,Indica,Tata,1,1
+43,Sportz 1.2,i10,Hyundai,11,4
+44,GLS,Indigo,Tata,7,1
+45,V2 DLS BSII,Indica,Tata,1,1
+46,1.6 LT with ABS,Aveo,Chevrolet,19,3
+47,R VXI BS IV,Wagon,Maruti,3,2
+48,Xing GLS CNG,Santro,Hyundai,20,4
+49,R LXI CNG,Wagon,Maruti,3,2
+50,GLS BS IV,Indica,Tata,1,1
+51,R LXI BS IV,Wagon,Maruti,3,2
+52,Vista Terra Quadrajet 1.3L,Indica,Tata,1,1
+53,Vista Quadrajet LX,Indica,Tata,1,1
+54,1.99 S10,Scorpio,Mahindra,21,7
+55,T Jet Emotion,Linea,Fiat,22,8
+56,K10 VXI,Alto,Maruti,8,2
+57,AT VXI,A-Star,Maruti,6,2
+58,Cx BSIV,Nano,Tata,2,1
+59,Petrol Titanium,Figo,Ford,15,5
+60,Xing GL,Santro,Hyundai,20,4
+61,Xing GLS,Santro,Hyundai,20,4
+62,1.0 PS,Spark,Chevrolet,10,3
+63,Diesel XV Premium,Micra,Nissan,23,9
+64,1.0 Kappa Magna Plus,EON,Hyundai,14,4
+65,Diesel,Beat,Chevrolet,4,3
+66,SX Diesel,Verna,Hyundai,24,4
+67,800 Base,Alto,Maruti,8,2
+68,1.5 D2 BSIII,Verito,Mahindra,25,7
+69,Magna Plus,EON,Hyundai,14,4
+70,K10 2010-2014 VXI,Alto,Maruti,8,2
+71,Magna,i10,Hyundai,11,4
+72,1.3 Emotion,Punto,Fiat,26,8
+73,Vista Aura Plus 1.3 Quadrajet,Indica,Tata,1,1
+74,U-VA 1.2 LS,Aveo,Chevrolet,19,3
+75,Petrol ZXI,Figo,Ford,15,5
+76,1.0,Spark,Chevrolet,10,3
+77,LS,Indigo,Tata,7,1
+78,CS Emax CNG GLX,Indigo,Tata,7,1
+79,Diesel PS,Beat,Chevrolet,4,3
+80,Punto 1.3 Dynamic (Diesel),Grande,Fiat,27,8
+81,Vista TDI LS,Indica,Tata,1,1
+82,Twist XE,Nano,Tata,2,1
+83,Aura (ABS) Quadrajet BS IV,Manza,Tata,17,1
+84,GX TC 8 Str,Sumo,Tata,28,1
+85,LT Option,Beat,Chevrolet,4,3
+86,Vista Quadrajet VX,Indica,Tata,1,1
+87,RXT,KWID,Renault,29,10
+88,Cx BSIII,Nano,Tata,2,1
+89,Vxi BSIV,SX4,Maruti,30,2
+90,LS,Beat,Chevrolet,4,3
+91,Sportz,EON,Hyundai,14,4
+92,C4,Quanto,Mahindra,31,7
+93,AC,800,Maruti,32,2
+94,XM,Nano,Tata,2,1
+95,SLX,Bolero,Mahindra,33,7
+96,LXi BSIII,Alto,Maruti,8,2
+97,1.3 GVS,Getz,Hyundai,34,4
+98,Petrol LXI,Figo,Ford,15,5
+99,E MPI STD BS IV,Omni,Maruti,18,2
+100,800 CNG LXI,Alto,Maruti,8,2
+101,800 VXI,Alto,Maruti,8,2
+102,Estilo LXI Green (CNG),Zen,Maruti,5,2
+103,1.5 D4 BSIV,Verito,Mahindra,25,7
+104,8 Seater BSIV,Omni,Maruti,18,2
+105,Estilo LX BSIV,Zen,Maruti,5,2
+106,Safari DICOR 2.2 EX 4x2,New,Tata,35,1
+107,Safari DICOR 2.2 EX 4x2,New,Tata,158,19
+108,R Duo Lxi,Wagon,Maruti,3,2
+109,D Lite,EON,Hyundai,14,4
+110,XT EX 4X4,Xenon,Tata,36,1
+111,1.05 Revotorq XM,Tiago,Tata,37,1
+112,Xing GL Plus,Santro,Hyundai,20,4
+113,Classic 1.4 Duratorq CLXI,Fiesta,Ford,13,5
+114,Magnum 2.0 LS,Optra,Chevrolet,38,3
+115,V,Etios,Toyota,39,11
+116,EX,Venture,Tata,40,1
+117,Aura Safire,Manza,Tata,17,1
+118,PS,Beat,Chevrolet,4,3
+119,XL D,Sunny,Nissan,41,9
+120,5 STR With AC Plus HTR CNG,Eeco,Maruti,42,2
+121,STD,Nano,Tata,2,1
+122,VXI,Ritz,Maruti,9,2
+123,T Option BSIV,GO,Datsun,43,12
+124,ZXI MT BSIV,SX4,Maruti,30,2
+125,Dzire Vdi BSIV,Swift,Maruti,44,2
+126,Lx BSIII,Nano,Tata,2,1
+127,Dzire VDI,Swift,Maruti,44,2
+128,1.4 ZXi Duratec,Fiesta,Ford,13,5
+129,T Option,RediGO,Datsun,45,12
+130,R DUO LPG,Wagon,Maruti,3,2
+131,R VXi BSII,Wagon,Maruti,3,2
+132,LX SE,Nano,Tata,2,1
+133,Era,i10,Hyundai,11,4
+134,800 LX,Alto,Maruti,8,2
+135,Active XV S,Micra,Nissan,23,9
+136,XL,Sunny,Nissan,41,9
+137,Club Class Quadrajet90 LS,Manza,Tata,17,1
+138,Celebration Edition BSIV,Xylo,Mahindra,46,7
+139,1.3 Active,Punto,Fiat,26,8
+140,1.6 CRDI,Verna,Hyundai,24,4
+141,R Stingray VXI,Wagon,Maruti,3,2
+142,VDi,Celerio,Maruti,47,2
+143,Green LXi (CNG),Alto,Maruti,8,2
+144,C6,Quanto,Mahindra,31,7
+145,D2 BS IV,Xylo,Mahindra,46,7
+146,R LX BS IV,Wagon,Maruti,3,2
+147,VDI,Swift,Maruti,44,2
+148,RXL,KWID,Renault,29,10
+149,1.2 Sportz,i20,Hyundai,48,4
+150,1.3 Emotion,Linea,Fiat,22,8
+151,GLE CNG,Accent,Hyundai,12,4
+152,Diesel EXI,Figo,Ford,15,5
+153,Era 1.1 iTech SE,i10,Hyundai,11,4
+154,ELAN Quadrajet BS IV,Manza,Tata,17,1
+155,LS Dicor,Indigo,Tata,7,1
+156,1.4 Duratorq LXI,Classic,Ford,49,5
+157,1.4 Duratorq LXI,Classic,Ford,105,15
+158,Aqua Quadrajet BS IV,Manza,Tata,17,1
+159,Safari DICOR 2.2 VX 4x2,New,Tata,35,1
+160,Safari DICOR 2.2 VX 4x2,New,Tata,158,19
+161,Celebration Petrol,SX4,Maruti,30,2
+162,VDI BSIV,Swift,Maruti,44,2
+163,Diesel ZXI,Figo,Ford,15,5
+164,Vista Aura 1.3 Quadrajet BSIV,Indica,Tata,1,1
+165,1.3 LS,Sail,Chevrolet,50,3
+166,LX,Nano,Tata,2,1
+167,Diesel XL,Sunny,Nissan,41,9
+168,1.2 Base,Sail,Chevrolet,50,3
+169,V MT,Brio,Honda,51,13
+170,Emotion,Linea,Fiat,22,8
+171,Dzire LXI Option,Swift,Maruti,44,2
+172,1.2 Active,Punto,Fiat,26,8
+173,Std,Nano,Tata,2,1
+174,1.3 GLS,Getz,Hyundai,34,4
+175,8 Seater BSII,Omni,Maruti,18,2
+176,Celebration Diesel,SX4,Maruti,30,2
+177,Magna,i20,Hyundai,48,4
+178,Sportz AT,i10,Hyundai,11,4
+179,1.6 TDI Elegance,Rapid,Skoda,52,14
+180,Quadrajet XE,Bolt,Tata,53,1
+181,R VXI BS IV with ABS,Wagon,Maruti,3,2
+182,Diesel Trend,Fiesta,Ford,13,5
+183,1.3 TCDi LS 8,Enjoy,Chevrolet,54,3
+184,R LX Minor,Wagon,Maruti,3,2
+185,1.0 RXL,KWID,Renault,29,10
+186,R LXI,Wagon,Maruti,3,2
+187,Sportz 1.1L,i10,Hyundai,11,4
+188,E MT,Brio,Honda,51,13
+189,GLX,Accent,Hyundai,12,4
+190,CS LX (TDI) BS-III,Indigo,Tata,7,1
+191,Magna 1.1L,i10,Hyundai,11,4
+192,Liva G,Etios,Toyota,39,11
+193,CS eLX BS IV,Indigo,Tata,7,1
+194,Power Plus Plus AC BSIV PS,Bolero,Mahindra,33,7
+195,Vdi BSIII,Swift,Maruti,44,2
+196,CRDe,Ingenio,Mahindra,55,7
+197,R AMT VXI,Wagon,Maruti,3,2
+198,1.5 S MT,City,Honda,56,13
+199,CX,Nano,Tata,2,1
+200,1.4 LS,Aveo,Chevrolet,19,3
+201,Plus T Option BSIV,GO,Datsun,43,12
+202,Magna 1.4 CRDi (Diesel),i20,Hyundai,48,4
+203,Sportz,i10,Hyundai,11,4
+204,Std,800,Maruti,32,2
+205,LXi,Ritz,Maruti,9,2
+206,Aura Quadrajet BS IV,Manza,Tata,17,1
+207,A,GO,Datsun,43,12
+208,Asta 1.4 CRDi,i20,Hyundai,48,4
+209,C8,Quanto,Mahindra,31,7
+210,1.6 VTVT,Verna,Hyundai,24,4
+211,1.4 Emotion,Punto,Fiat,26,8
+212,Xing GLS Audio LPG,Santro,Hyundai,20,4
+213,110PS Diesel RxZ,Duster,Renault,57,10
+214,Revotron 1.2T XMS,Zest,Tata,58,1
+215,Magnum 2.0 LS BSIII,Optra,Chevrolet,38,3
+216,Grand Dicor,Indigo,Tata,7,1
+217,Sportz Petrol,i20,Hyundai,48,4
+218,LXI,Swift,Maruti,44,2
+219,1.6 Duratec LXI,Classic,Ford,49,5
+220,1.6 Duratec LXI,Classic,Ford,105,15
+221,E4,Xylo,Mahindra,46,7
+222,1.5 TDI Trendline,Polo,Volkswagen,16,6
+223,GD,Etios,Toyota,39,11
+224,RXL BSIV,KWID,Renault,29,10
+225,800 LXI CNG,Alto,Maruti,8,2
+226,1.5 D2 BSIV,Verito,Mahindra,25,7
+227,1.5 V AT,City,Honda,56,13
+228,5 Seater AC BSIV,Eeco,Maruti,42,2
+229,AMT 1.0 S,RediGO,Datsun,45,12
+230,1.5 TDCi Titanium,Fiesta,Ford,13,5
+231,Dzire LXi,Swift,Maruti,44,2
+232,R VXI BSIII,Wagon,Maruti,3,2
+233,Twist XT,Nano,Tata,2,1
+234,Grand Petrol,Indigo,Tata,7,1
+235,Hatchback LT ABS,Sail,Chevrolet,50,3
+236,Dzire LDI,Swift,Maruti,44,2
+237,LPG Magna Plus,EON,Hyundai,14,4
+238,SLX 2WD,Bolero,Mahindra,33,7
+239,Safari DICOR 2.2 GX 4x2 BS IV,New,Tata,35,1
+240,Safari DICOR 2.2 GX 4x2 BS IV,New,Tata,158,19
+241,1.1 CRDi Base,Xcent,Hyundai,59,4
+242,Hatchback LS ABS,Sail,Chevrolet,50,3
+243,CS eLS BS IV,Indigo,Tata,7,1
+244,Era Plus Option,EON,Hyundai,14,4
+245,R VXI Minor,Wagon,Maruti,3,2
+246,XL,Micra,Nissan,23,9
+247,Emotion (Diesel),Linea,Fiat,22,8
+248,Diesel Highline,Vento,Volkswagen,60,6
+249,1.4 CNG,Aveo,Chevrolet,19,3
+250,R VXI Optional,Wagon,Maruti,3,2
+251,2.5 EV Diesel PS 7 Seater BSIII,Innova,Toyota,61,11
+252,Diesel Celebration Edition,Figo,Ford,15,5
+253,S MT,Brio,Honda,51,13
+254,D4 BSIV,Xylo,Mahindra,46,7
+255,Diesel Style Limited Edition,Vento,Volkswagen,60,6
+256,Magna 1.2 iTech SE,i10,Hyundai,11,4
+257,7 Seater Standard BSIV,Eeco,Maruti,42,2
+258,Punto Emotion 90Hp,Grande,Fiat,27,8
+259,Punto EVO 90HP 1.3 Sport,Grande,Fiat,27,8
+260,Diesel LXI,Figo,Ford,15,5
+261,ZDI,SX4,Maruti,30,2
+262,1.0 LT Option Pack w/ Airbag,Spark,Chevrolet,10,3
+263,1.0,KWID,Renault,29,10
+264,R Stingray LXI,Wagon,Maruti,3,2
+265,Liva GD SP,Etios,Toyota,39,11
+266,VXi,Ritz,Maruti,9,2
+267,LXI,Estilo,Maruti,62,2
+268,1.2 S MT,Brio,Honda,51,13
+269,Vista Terra Quadrajet 1.3L BS IV,Indica,Tata,1,1
+270,1.4 CRDi Era,i20,Hyundai,48,4
+271,Vista Aqua 1.3 Quadrajet BSIV,Indica,Tata,1,1
+272,Magnum 2.0 LT,Optra,Chevrolet,38,3
+273,E i-Dtech,Amaze,Honda,63,13
+274,1.5 D6 BSIII,Verito,Mahindra,25,7
+275,800 LXI Airbag,Alto,Maruti,8,2
+276,GLX,Indigo,Tata,7,1
+277,Diesel Comfortline,Vento,Volkswagen,60,6
+278,i10 1.2 Kappa Sportz Dual Tone,Grand,Hyundai,64,4
+279,i10 1.2 Kappa Sportz Dual Tone,Grand,Hyundai,133,15
+280,i10 1.2 Kappa Sportz Dual Tone,Grand,Hyundai,134,2
+281,DI,Bolero,Mahindra,33,7
+282,i10 Sportz,Grand,Hyundai,64,4
+283,i10 Sportz,Grand,Hyundai,133,15
+284,i10 Sportz,Grand,Hyundai,134,2
+285,1.5 V MT,City,Honda,56,13
+286,R LXI LPG BSIV,Wagon,Maruti,3,2
+287,Asta,i20,Hyundai,48,4
+288,E4 ABS BS IV,Xylo,Mahindra,46,7
+289,Petrol Highline AT,Vento,Volkswagen,60,6
+290,Diesel XV,Micra,Nissan,23,9
+291,1.9 L TDI,Jetta,Volkswagen,65,6
+292,LX,Sumo,Tata,28,1
+293,Estilo 1.1 LXI BSIII,Zen,Maruti,5,2
+294,Punto EVO 1.3 Active,Grande,Fiat,27,8
+295,R VXI,Wagon,Maruti,3,2
+296,LXI,Alto,Maruti,8,2
+297,Xing XL eRLX Euro III,Santro,Hyundai,20,4
+298,LTZ,Cruze,Chevrolet,66,3
+299,Dzire VDi,Swift,Maruti,44,2
+300,CRDi,Accent,Hyundai,12,4
+301,Vibe 1.5 dCi D4,Verito,Mahindra,25,7
+302,Club Class Quadrajet90 VX,Manza,Tata,17,1
+303,Star VDI,Swift,Maruti,44,2
+304,Ldi BSIV,Swift,Maruti,44,2
+305,Dzire ZDI,Swift,Maruti,44,2
+306,1.6 MPI Active,Rapid,Skoda,52,14
+307,1.5D Ambiente ABS MT,Figo,Ford,15,5
+308,Liva VX,Etios,Toyota,39,11
+309,1.0 Ecoboost Titanium Optional,Ecosport,Ford,67,5
+310,Hatchback 1.2 LS,Sail,Chevrolet,50,3
+311,1.0 MPI Trendline,Polo,Volkswagen,16,6
+312,1.0 S,RediGO,Datsun,45,12
+313,LSI,Indica,Tata,1,1
+314,VDI,Ertiga,Maruti,68,2
+315,VX,Etios,Toyota,39,11
+316,LDi,Ritz,Maruti,9,2
+317,2011-2019 SLE,Bolero,Mahindra,33,7
+318,Dzire VXi,Swift,Maruti,44,2
+319,Transform VTVT,Verna,Hyundai,24,4
+320,VXI,Celerio,Maruti,47,2
+321,VD,Etios,Toyota,39,11
+322,Safari DICOR 2.2 GX 4x2,New,Tata,35,1
+323,Safari DICOR 2.2 GX 4x2,New,Tata,158,19
+324,Dzire LDi,Swift,Maruti,44,2
+325,RXT Optional,KWID,Renault,29,10
+326,Diesel Trendline,Vento,Volkswagen,60,6
+327,Ambiente 2.0 TDI CR MT,Laura,Skoda,69,14
+328,VXI BSIII,Swift,Maruti,44,2
+329,Magna LPG,i10,Hyundai,11,4
+330,Altis Diesel D4DG,Corolla,Toyota,70,11
+331,Petrol Highline 1.2L,Polo,Volkswagen,16,6
+332,1.2 Sport,Palio,Fiat,71,8
+333,1.2L Diesel Ambiente,Fabia,Skoda,72,14
+334,VXI,Zen,Maruti,5,2
+335,Asta 1.2,i20,Hyundai,48,4
+336,1500 DSL AC,CLASSIC,Ambassador,73,15
+337,Active (Diesel),Linea,Fiat,22,8
+338,LX Dicor,Indigo,Tata,7,1
+339,1.2 DLX,Swift,Maruti,44,2
+340,LT,Cruze,Chevrolet,66,3
+341,XT EX 4X2,Xenon,Tata,36,1
+342,Vista Quadrajet 90 VX,Indica,Tata,1,1
+343,Liva GD,Etios,Toyota,39,11
+344,1.5 CRDi GVS,Getz,Hyundai,34,4
+345,CRDi SX,Verna,Hyundai,24,4
+346,Estilo Sports,Zen,Maruti,5,2
+347,R LXI DUO BS IV,Wagon,Maruti,3,2
+348,Climber 1.0 AMT BSIV,KWID,Renault,29,10
+349,Magna Optional 1.2,i20,Hyundai,48,4
+350,1.0 TSI Highline Plus,Vento,Volkswagen,60,6
+351,Plus A,GO,Datsun,43,12
+352,Transform SX VTVT,Verna,Hyundai,24,4
+353,1.9 Highline TDI,Jetta,Volkswagen,65,6
+354,Plus T,GO,Datsun,43,12
+355,GD SP,Etios,Toyota,39,11
+356,Magna,EON,Hyundai,14,4
+357,Vxi BSIII,SX4,Maruti,30,2
+358,Magna 1.1,i10,Hyundai,11,4
+359,VXI Optional,Swift,Maruti,44,2
+360,1.2 CRDi E,Xcent,Hyundai,59,4
+361,T Petrol,GO,Datsun,43,12
+362,Victa CX 7/9 Str BSII,Sumo,Tata,28,1
+363,Vista Aqua 1.3 Quadrajet ABS BSIV,Indica,Tata,1,1
+364,1.2 Kappa S,Xcent,Hyundai,59,4
+365,K10 VXI AGS,Alto,Maruti,8,2
+366,1.0 RXT Optional,KWID,Renault,29,10
+367,IPL II Diesel Trendline,Vento,Volkswagen,60,6
+368,LS B3 7 Seats BSII,Tavera,Chevrolet,74,3
+369,GS,Santro,Hyundai,20,4
+370,1.4 Duratec ZXI,Fiesta,Ford,13,5
+371,S i-Dtech,Amaze,Honda,63,13
+372,1.2 TDI Active,Fabia,Skoda,72,14
+373,LT L1 7 Seats BSIII,Tavera,Chevrolet,74,3
+374,K10 VXI AGS Optional,Alto,Maruti,8,2
+375,1.2 Magna,i20,Hyundai,48,4
+376,2.0 TDI Trendline,Jetta,Volkswagen,65,6
+377,LX BSIII,Alto,Maruti,8,2
+378,Estilo LXI BSIII,Zen,Maruti,5,2
+379,E i-VTEC,Amaze,Honda,63,13
+380,1.8 TFSI MT,Superb,Skoda,75,14
+381,Ldi BSIII,Swift,Maruti,44,2
+382,100 mFALCON G80 K8 5str,KUV,Mahindra,76,7
+383,V i DTEC,Mobilio,Honda,77,13
+384,800 Std Optional,Alto,Maruti,8,2
+385,LX BSIV,Scorpio,Mahindra,21,7
+386,Magna 1.1 iTech SE,i10,Hyundai,11,4
+387,ZXI AT,SX4,Maruti,30,2
+388,EX i-Dtech,Amaze,Honda,63,13
+389,1.5 EXI,City,Honda,56,13
+390,DLE,Indica,Tata,1,1
+391,GX TC 7 Str BSIII,Sumo,Tata,28,1
+392,Sportz 1.2 AT,i10,Hyundai,11,4
+393,Revotron 1.2T XE,Zest,Tata,58,1
+394,AC BSIII,800,Maruti,32,2
+395,Estilo LXI BS IV,Zen,Maruti,5,2
+396,RXE,KWID,Renault,29,10
+397,VDI,SX4,Maruti,30,2
+398,Diesel Comfortline 1.2L,Polo,Volkswagen,16,6
+399,T BSIV,GO,Datsun,43,12
+400,LXi BSIV,Swift,Maruti,44,2
+401,K10 VXI Optional,Alto,Maruti,8,2
+402,S,RediGO,Datsun,45,12
+403,1.3 DLX,Swift,Maruti,44,2
+404,K10 LX,Alto,Maruti,8,2
+405,1.4 ZXi Leather,Fiesta,Ford,13,5
+406,LXi BSII,Alto,Maruti,8,2
+407,Quadrajet 1.3,Zest,Tata,58,1
+408,Hatchback 1.3 TCDi LT ABS,Sail,Chevrolet,50,3
+409,1.3 VXi,Swift,Maruti,44,2
+410,1.2 Asta,i20,Hyundai,48,4
+411,Classic 1.4 SXI Duratorq,Fiesta,Ford,13,5
+412,E 8 Str STD,Omni,Maruti,18,2
+413,1.4 ZXi TDCi ABS,Fiesta,Ford,13,5
+414,E,City,Honda,56,13
+415,Dzire 1.2 Vxi BSIV,Swift,Maruti,44,2
+416,SE Plus BSIII,Sumo,Tata,28,1
+417,LT LPG,Beat,Chevrolet,4,3
+418,Vibe 1.5 dCi D6,Verito,Mahindra,25,7
+419,King Hard Top,Gypsy,Maruti,78,2
+420,1.2 MPI Ambition Plus,Fabia,Skoda,72,14
+421,Plus T Option,GO,Datsun,43,12
+422,Maruti Omni MPI STD BSIII 5-STR W/ IMMOBILISER,Omni,Maruti,18,2
+423,Dynamic,Linea,Fiat,22,8
+424,CRDi,Verna,Hyundai,24,4
+425,Xing GL Plus LPG,Santro,Hyundai,20,4
+426,S,City,Honda,56,13
+427,GLX,Getz,Hyundai,34,4
+428,R VXI Plus Optional,Wagon,Maruti,3,2
+429,1.6 Duratec S,Fiesta,Ford,13,5
+430,GLS,Accent,Hyundai,12,4
+431,1.2 Revotron XE,Tiago,Tata,37,1
+432,Magna Optional,EON,Hyundai,14,4
+433,1.6 TDI Ambition,Rapid,Skoda,52,14
+434,1.1 CRDi S,Xcent,Hyundai,59,4
+435,K10 LXI CNG Optional,Alto,Maruti,8,2
+436,Xing XS,Santro,Hyundai,20,4
+437,CRDi (Leather Option),Elantra,Hyundai,79,4
+438,1.6 Duratec EXI Ltd,Fiesta,Ford,13,5
+439,1.5 EXI S,City,Honda,56,13
+440,Revotron XE,Bolt,Tata,53,1
+441,1.2P Ambiente MT,Figo,Ford,15,5
+442,LS zipPlus,Santro,Hyundai,20,4
+443,Diesel RxL,Scala,Renault,80,10
+444,1.3 DX,City,Honda,56,13
+445,Diesel Highline 1.2L,Polo,Volkswagen,16,6
+446,Xing XG AT,Santro,Hyundai,20,4
+447,VX MT,City,Honda,56,13
+448,FS B3,Qualis,Toyota,81,11
+449,1.5 GXI,City,Honda,56,13
+450,E8,Xylo,Mahindra,46,7
+451,85PS Diesel RxL,Duster,Renault,57,10
+452,1.6 SX CRDi (O),Verna,Hyundai,24,4
+453,E8 ABS Airbag BSIV,Xylo,Mahindra,46,7
+454,Xing XK (Non-AC),Santro,Hyundai,20,4
+455,LX,Zen,Maruti,5,2
+456,Cross 1.4L GD,Etios,Toyota,39,11
+457,K10 LXI CNG,Alto,Maruti,8,2
+458,ZXI,Celerio,Maruti,47,2
+459,Sportz 1.2,i20,Hyundai,48,4
+460,1.2 Kappa SX,Xcent,Hyundai,59,4
+461,BSIII 8-STR W/ IMMOBILISER,Omni,Maruti,18,2
+462,Xing XG,Santro,Hyundai,20,4
+463,XXi (Petrol),Verna,Hyundai,24,4
+464,R LX BSIII,Wagon,Maruti,3,2
+465,D PS,Zen,Maruti,5,2
+466,GLE 1,Accent,Hyundai,12,4
+467,R LX,Wagon,Maruti,3,2
+468,1.6,Optra,Chevrolet,38,3
+469,VXi - BS III,Zen,Maruti,5,2
+470,GLS I - Euro I,Santro,Hyundai,20,4
+471,Petrol Comfortline 1.2L,Polo,Volkswagen,16,6
+472,1.2 MPI,CrossPolo,Volkswagen,83,6
+473,U-VA 1.2 LT WO ABS Airbag,Aveo,Chevrolet,19,3
+474,5 Str STD,Omni,Maruti,18,2
+475,R LXI DUO BSIII,Wagon,Maruti,3,2
+476,1.5 TDI Comfortline AT,Vento,Volkswagen,60,6
+477,AC Uniq,800,Maruti,32,2
+478,LX,Scorpio,Mahindra,21,7
+479,LXI,Zen,Maruti,5,2
+480,Lxi - BSIII,Esteem,Maruti,84,2
+481,Diesel XV Primo,Micra,Nissan,23,9
+482,i (Petrol),Verna,Hyundai,24,4
+483,1.4 TDCi DuraTorq,Ikon,Ford,85,5
+484,MULTIJET Emotion,Avventura,Fiat,86,8
+485,85PS Diesel RxE,Duster,Renault,57,10
+486,Std MPFi,800,Maruti,32,2
+487,Std BSIII,800,Maruti,32,2
+488,E9,Xylo,Mahindra,46,7
+489,VXI,Swift,Maruti,44,2
+490,100 G80 K2,KUV,Mahindra,76,7
+491,Diesel LT Option,Beat,Chevrolet,4,3
+492,LXi BSII,Zen,Maruti,5,2
+493,Dzire ZXI,Swift,Maruti,44,2
+494,1.6 LS,Optra,Chevrolet,38,3
+495,1.6 SX VTVT AT,Verna,Hyundai,24,4
+496,U-VA 1.2 LT,Aveo,Chevrolet,19,3
+497,1.6 ZXi Duratec,Fiesta,Ford,13,5
+498,CS LS (TDI) BS-III,Indigo,Tata,7,1
+499,Estilo LX BSIII,Zen,Maruti,5,2
+500,GLS,Getz,Hyundai,34,4
+501,GLE BSIII,Indigo,Tata,7,1
+502,LX - BS III,Zen,Maruti,5,2
+503,DI DX 7 Seater,Bolero,Mahindra,33,7
+504,5 Seater Standard BSIV,Eeco,Maruti,42,2
+505,MM 550 XDB,Jeep,Mahindra,87,7
+506,LE zipPlus,Santro,Hyundai,20,4
+507,800 LXI Opt BSIV,Alto,Maruti,8,2
+508,Logan 1.5 DLE Diesel,Renault,Mahindra,88,7
+509,800 CNG LXI Optional,Alto,Maruti,8,2
+510,R VXI Minor ABS,Wagon,Maruti,3,2
+511,Classic Dicor,Indigo,Tata,7,1
+512,LXI,Indica,Tata,1,1
+513,Era 1.1,i10,Hyundai,11,4
+514,i10 CRDi Sportz,Grand,Hyundai,64,4
+515,i10 CRDi Sportz,Grand,Hyundai,133,15
+516,i10 CRDi Sportz,Grand,Hyundai,134,2
+517,SX,Verna,Hyundai,24,4
+518,Vista Aura 1.3 Quadrajet,Indica,Tata,1,1
+519,VXi,Alto,Maruti,8,2
+520,2.5 V Diesel 7-seater,Innova,Toyota,61,11
+521,2011-2019 SLX,Bolero,Mahindra,33,7
+522,K10 VXI Airbag,Alto,Maruti,8,2
+523,i10 CRDi Asta Option,Grand,Hyundai,64,4
+524,i10 CRDi Asta Option,Grand,Hyundai,133,15
+525,i10 CRDi Asta Option,Grand,Hyundai,134,2
+526,Ambiente 1.9 PD,Laura,Skoda,69,14
+527,Neo 3 10 Seats BSIV,Tavera,Chevrolet,74,3
+528,Vxi - BSIII,Esteem,Maruti,84,2
+529,Vxi,Baleno,Maruti,89,2
+530,Deluxe - Hi Roof (AC),Winger,Tata,90,1
+531,Era,EON,Hyundai,14,4
+532,V2 2001-2011 DLS BSIII,Indica,Tata,1,1
+533,GLS 1.6 ABS,Accent,Hyundai,12,4
+534,AMT 1.0 T Option,redi-GO,Datsun,91,12
+535,1.8 S MT,Civic,Honda,92,13
+536,LTZ AT,Cruze,Chevrolet,66,3
+537,Quadrajet 1.3 75PS XE,Zest,Tata,58,1
+538,1.2 Revotron XZ,Tiago,Tata,37,1
+539,100 mFALCON G80 K2,KUV,Mahindra,76,7
+540,2.6 SLX Turbo 7 Seater,Scorpio,Mahindra,21,7
+541,2019-2020 XE Diesel,Tiago,Tata,37,1
+542,Neo 2 LS B4 7 Str BSIII,Tavera,Chevrolet,74,3
+543,Vxi,Esteem,Maruti,84,2
+544,1.3 EXI,City,Honda,56,13
+545,Smiles 5 Seater AC,Eeco,Maruti,42,2
+546,Diesel XV,Sunny,Nissan,41,9
+547,RXT BSIV,KWID,Renault,29,10
+548,Neo LS B3 - 7(C) seats BSIII,Tavera,Chevrolet,74,3
+549,Xing XG eRLX Euro III,Santro,Hyundai,20,4
+550,1.6 MPI Elegance,Rapid,Skoda,52,14
+551,E i-Vtech,Amaze,Honda,63,13
+552,i10 CRDi Magna,Grand,Hyundai,64,4
+553,i10 CRDi Magna,Grand,Hyundai,133,15
+554,i10 CRDi Magna,Grand,Hyundai,134,2
+555,1.2 MPI Comfortline,Polo,Volkswagen,16,6
+556,Lxi,Esteem,Maruti,84,2
+557,Std BSII,Nano,Tata,2,1
+558,VX,Brio,Honda,51,13
+559,DLS,Indica,Tata,1,1
+560,GLE,Accent,Hyundai,12,4
+561,1.8 V AT,Civic,Honda,92,13
+562,Neo 3 Max 9 Str BSIII,Tavera,Chevrolet,74,3
+563,S Cross DDiS 320 Delta,SX4,Maruti,30,2
+564,Xing GL PLUS CNG,Santro,Hyundai,20,4
+565,Revotron 1.2 XT,Zest,Tata,58,1
+566,1.3 LXI,Swift,Maruti,44,2
+567,Club Class Quadrajet90 EX,Manza,Tata,17,1
+568,2.5 G (Diesel) 8 Seater BS IV,Innova,Toyota,61,11
+569,Transform CRDi VGT ABS,Verna,Hyundai,24,4
+570,Liva 1.4 VD,Etios,Toyota,39,11
+571,GLE,Getz,Hyundai,34,4
+572,Neo 3 LS 7 C BSIII,Tavera,Chevrolet,74,3
+573,Estilo VXI BSIII,Zen,Maruti,5,2
+574,AT CNG,Santro,Hyundai,20,4
+575,LP zipPlus,Santro,Hyundai,20,4
+576,LXI Option,Swift,Maruti,44,2
+577,2.0 TDI Comfortline,Jetta,Volkswagen,65,6
+578,1.5 V AT Exclusive,City,Honda,56,13
+579,AT,Santro,Hyundai,20,4
+580,Plus T Option Petrol,GO,Datsun,43,12
+581,GL,1.4,OpelCorsa,93,16
+582,i10 CRDi Asta,Grand,Hyundai,64,4
+583,i10 CRDi Asta,Grand,Hyundai,133,15
+584,i10 CRDi Asta,Grand,Hyundai,134,2
+585,Pleasure 4x2,Aria,Tata,94,1
+586,D,Zen,Maruti,5,2
+587,AC BSII,800,Maruti,32,2
+588,EX,800,Maruti,32,2
+589,VXI AT,Celerio,Maruti,47,2
+590,1.3L Rocam Flair,Ikon,Ford,85,5
+591,1.9 TDI MT Ambiente,Laura,Skoda,69,14
+592,1.4 CRDi Sportz,i20,Hyundai,48,4
+593,LPG CARGO BSIII W IMMOBILISER,Omni,Maruti,18,2
+594,Punto Active (Diesel),Grande,Fiat,27,8
+595,i10 1.2 Kappa Sportz BSIV,Grand,Hyundai,64,4
+596,i10 1.2 Kappa Sportz BSIV,Grand,Hyundai,133,15
+597,i10 1.2 Kappa Sportz BSIV,Grand,Hyundai,134,2
+598,MM 540,Jeep,Mahindra,87,7
+599,Logan 1.4 GLX Petrol,Renault,Mahindra,88,7
+600,Estilo 1.1 VXI BSIII,Zen,Maruti,5,2
+601,VLX AT 2WD BSIII,Scorpio,Mahindra,21,7
+602,R AX,Wagon,Maruti,3,2
+603,Std BSII,800,Maruti,32,2
+604,ZDi BSIV,Swift,Maruti,44,2
+605,Lxi,A-Star,Maruti,6,2
+606,H2,Corolla,Toyota,70,11
+607,Victa EX 7/9 Str BSII,Sumo,Tata,28,1
+608,Elegance 1.9 TDI  AT,Laura,Skoda,69,14
+609,E MG410W ST,Gypsy,Maruti,78,2
+610,1.4 CRDi Asta,i20,Hyundai,48,4
+611,1.6 SX,Verna,Hyundai,24,4
+612,ZDi,Swift,Maruti,44,2
+613,CRDi ABS,Verna,Hyundai,24,4
+614,XE 85 PS,Terrano,Nissan,95,9
+615,SLX 2WD BSIII,Bolero,Mahindra,33,7
+616,LXi - BS III,Zen,Maruti,5,2
+617,1.6 Duratec Petrol,Fusion,Ford,96,5
+618,2.6 CRDe,Scorpio,Mahindra,21,7
+619,Magna Optional 1.4 CRDi,i20,Hyundai,48,4
+620,D2,Xylo,Mahindra,46,7
+621,AX,Esteem,Maruti,84,2
+622,SLE BSIII,Bolero,Mahindra,33,7
+623,R LXI BSIII,Wagon,Maruti,3,2
+624,VLS AT 2.2 mHAWK,Scorpio,Mahindra,21,7
+625,1.8 S AT,Civic,Honda,92,13
+626,Xing XL AT eRLX Euro III,Santro,Hyundai,20,4
+627,GLS I - Euro II,Santro,Hyundai,20,4
+628,Ambition 2.0 TDI CR AT,Superb,Skoda,75,14
+629,Quadrajet 1.3 XM,Zest,Tata,58,1
+630,1.4,Aveo,Chevrolet,19,3
+631,MM 775 XDB,Jeep,Mahindra,87,7
+632,1.2 MPI Highline,Polo,Volkswagen,16,6
+633,100 G80 K4 Plus,KUV,Mahindra,76,7
+634,1.4 CRDi Magna,i20,Hyundai,48,4
+635,1.5 VX i DTEC,Jazz,Honda,97,13
+636,1.5,Fluence,Renault,98,10
+637,2.5 EV Diesel MS 7 Str BSIII,Innova,Toyota,61,11
+638,Zxi with Leather BSIII,SX4,Maruti,30,2
+639,Zxi BSIII,SX4,Maruti,30,2
+640,Classic,Jeep,Mahindra,87,7
+641,1.6 Highline,Vento,Volkswagen,60,6
+642,Xing XK,Santro,Hyundai,20,4
+643,1.3 Flair,Ikon,Ford,85,5
+644,E i-DTEC,Amaze,Honda,63,13
+645,Logan 1.5 DLX Diesel,Renault,Mahindra,88,7
+646,Xing XS eRLX Euro III,Santro,Hyundai,20,4
+647,GLS ABS,Getz,Hyundai,34,4
+648,Ambiente 1.9 TDI MT,Octavia,Skoda,99,14
+649,Xing XK eRLX EuroIII,Santro,Hyundai,20,4
+650,1.6 ZXI NXt,Ikon,Ford,85,5
+651,ZDi,Celerio,Maruti,47,2
+652,85PS Diesel RxL Plus,Duster,Renault,57,10
+653,Liva 1.2 V,Etios,Toyota,39,11
+654,R VX,Wagon,Maruti,3,2
+655,XL Plus 85 PS,Terrano,Nissan,95,9
+656,Plus T BSIV,GO,Datsun,43,12
+657,SD,Matiz,Daewoo,100,17
+658,S Option AT,Brio,Honda,51,13
+659,Aspire 1.2 Ti-VCT Trend,Figo,Ford,15,5
+660,Gold EX,Sumo,Tata,28,1
+661,GL,Getz,Hyundai,34,4
+662,VX,Esteem,Maruti,84,2
+663,Altis 1.8 VL AT,Corolla,Toyota,70,11
+664,1.6 SX VTVT (O),Verna,Hyundai,24,4
+665,1.4 VTVT,Verna,Hyundai,24,4
+666,DL,Indica,Tata,1,1
+667,1.8 D,Ikon,Ford,85,5
+668,i10 1.2 Kappa Asta,Grand,Hyundai,64,4
+669,i10 1.2 Kappa Asta,Grand,Hyundai,133,15
+670,i10 1.2 Kappa Asta,Grand,Hyundai,134,2
+671,2.5 GX 8 STR BSIV,Innova,Toyota,61,11
+672,VXI with ABS,Swift,Maruti,44,2
+673,1.2 Era,i20,Hyundai,48,4
+674,1.9 TDI Comfortline DSG,Jetta,Volkswagen,65,6
+675,RxL,Scala,Renault,80,10
+676,Select Edition Active,Jazz,Honda,97,13
+677,1.4 ZXi,Ikon,Ford,85,5
+678,i10 1.2 CRDi Magna,Grand,Hyundai,64,4
+679,i10 1.2 CRDi Magna,Grand,Hyundai,133,15
+680,i10 1.2 CRDi Magna,Grand,Hyundai,134,2
+681,85PS Diesel RxL Optional,Duster,Renault,57,10
+682,REV 116,Scorpio,Mahindra,21,7
+683,5 Str STD LPG,Omni,Maruti,18,2
+684,1.2P Titanium Plus MT,Figo,Ford,15,5
+685,Vista Terra TDI BSIII,Indica,Tata,1,1
+686,XV D Premium Leather,Sunny,Nissan,41,9
+687,Classic 1.9 TDI MT,Octavia,Skoda,99,14
+688,1.2 Revotron XZA,Tiago,Tata,37,1
+689,1.6 LT,Aveo,Chevrolet,19,3
+690,Xing XO,Santro,Hyundai,20,4
+691,Aspire 1.5 TDCi Trend,Figo,Ford,15,5
+692,i10 Asta,Grand,Hyundai,64,4
+693,i10 Asta,Grand,Hyundai,133,15
+694,i10 Asta,Grand,Hyundai,134,2
+695,Logan 1.5 DLS,Renault,Mahindra,88,7
+696,1.5 DV5 MT Titanium,Ecosport,Ford,67,5
+697,D4,Xylo,Mahindra,46,7
+698,SX CRDi AT,Verna,Hyundai,24,4
+699,Climber 1.0 AMT,KWID,Renault,29,10
+700,SLE BSIV,Scorpio,Mahindra,21,7
+701,Era Plus Sports Edition,EON,Hyundai,14,4
+702,1.2 MPI Trendline,Ameo,Volkswagen,101,6
+703,Sigma 1.2,Baleno,Maruti,89,2
+704,VVT VXI,Swift,Maruti,44,2
+705,U-VA 1.2,Aveo,Chevrolet,19,3
+706,Storme VX,Safari,Tata,102,1
+707,1.5 TDI Ambition,Rapid,Skoda,52,14
+708,RxZ Optional,Pulse,Renault,103,10
+709,Ambiente,Laura,Skoda,69,14
+710,ZXI AMT BSIV,Celerio,Maruti,47,2
+711,H6,Corolla,Toyota,70,11
+712,ZXI,Swift,Maruti,44,2
+713,Green VXI,Celerio,Maruti,47,2
+714,2019-2020 XZ,Tiago,Tata,37,1
+715,DX,800,Maruti,32,2
+716,RxL,Pulse,Renault,103,10
+717,RxZ,Pulse,Renault,103,10
+718,VXI Deca,Swift,Maruti,44,2
+719,VLX 2WD BSIV,Scorpio,Mahindra,21,7
+720,SLE,Bolero,Mahindra,33,7
+721,2015-2017 Magna 1.2,i20,Hyundai,48,4
+722,VXI AMT BSIV,Celerio,Maruti,47,2
+723,STD,Alto,Maruti,8,2
+724,ZXI ABS,Swift,Maruti,44,2
+725,D2 Maxx,Xylo,Mahindra,46,7
+726,Sportz 1.4 CRDi,i20,Hyundai,48,4
+727,SHVS VDI,Ertiga,Maruti,68,2
+728,1.05 Revotorq XE,Tiago,Tata,37,1
+729,Magna 1.4 CRDi,i20,Hyundai,48,4
+730,Aspire 1.5 TDCi Ambiente ABS,Figo,Ford,15,5
+731,Active XV,Micra,Nissan,23,9
+732,i10 Asta Option,Grand,Hyundai,64,4
+733,i10 Asta Option,Grand,Hyundai,133,15
+734,i10 Asta Option,Grand,Hyundai,134,2
+735,CL 500 MDI,Jeep,Mahindra,87,7
+736,DUO AC LPG,800,Maruti,32,2
+737,H3,Corolla,Toyota,70,11
+738,CRDi SX ABS,Verna,Hyundai,24,4
+739,1.5 TDI Comfortline,Vento,Volkswagen,60,6
+740,1.6 ZXi Leather,Fiesta,Ford,13,5
+741,1.3 VXI ABS,Swift,Maruti,44,2
+742,Asta AT,i10,Hyundai,11,4
+743,L n K 1.9 PD,Laura,Skoda,69,14
+744,2.5L 4X2 MT,Endeavour,Ford,104,5
+745,TCDi LT 8 Seater,Enjoy,Chevrolet,54,3
+746,Transform CRDi VGT SX ABS,Verna,Hyundai,24,4
+747,R CNG LXI,Wagon,Maruti,3,2
+748,R AMT VXI Option,Wagon,Maruti,3,2
+749,CNG,Omni,Maruti,18,2
+750,2.0 VX 7 Seater,Innova,Toyota,61,11
+751,VX,Zen,Maruti,5,2
+752,2000 Dsz,Classic,Ambassador,49,5
+753,2000 Dsz,Classic,Ambassador,105,15
+754,DLX,Indica,Tata,1,1
+755,1.2 Zeta BSIV,Ignis,Maruti,106,2
+756,Cross 1.2L G,Etios,Toyota,39,11
+757,1.2 Revotron XT,Tigor,Tata,107,1
+758,New Diesel Highline,Vento,Volkswagen,60,6
+759,Power Plus SLX,Bolero,Mahindra,33,7
+760,2.5 E 8 STR,Innova,Toyota,61,11
+761,Asta (o),i20,Hyundai,48,4
+762,Delta 1.2,Baleno,Maruti,89,2
+763,VX i-DTEC,Amaze,Honda,63,13
+764,i10 Magna,Grand,Hyundai,64,4
+765,i10 Magna,Grand,Hyundai,133,15
+766,i10 Magna,Grand,Hyundai,134,2
+767,CRDi,Tucson,Hyundai,108,4
+768,i10 1.2 Kappa Sportz Option,Grand,Hyundai,64,4
+769,i10 1.2 Kappa Sportz Option,Grand,Hyundai,133,15
+770,i10 1.2 Kappa Sportz Option,Grand,Hyundai,134,2
+771,110PS Diesel RxL,Duster,Renault,57,10
+772,AMT,KWID,Renault,29,10
+773,VDi BSIII W/ ABS,Swift,Maruti,44,2
+774,Safari 4X4,New,Tata,35,1
+775,Safari 4X4,New,Tata,158,19
+776,VXI ABS,Ertiga,Maruti,68,2
+777,Safari Dicor EX 4X2 BS IV,New,Tata,35,1
+778,Safari Dicor EX 4X2 BS IV,New,Tata,158,19
+779,i DTEC S,City,Honda,56,13
+780,1.5 V Elegance,City,Honda,56,13
+781,Neo 2 LT L 9 Str,Tavera,Chevrolet,74,3
+782,VXi BSIV,Swift,Maruti,44,2
+783,Pure LX 4x2,Aria,Tata,94,1
+784,Petrol Trend,Fiesta,Ford,13,5
+785,S i-VTEC,Amaze,Honda,63,13
+786,Magna CNG BSIV,Santro,Hyundai,20,4
+787,i DTEC VX,City,Honda,56,13
+788,Aspire 1.2 Ti-VCT Titanium Plus,Figo,Ford,15,5
+789,AE,Corolla,Toyota,70,11
+790,2.5 G3,Innova,Toyota,61,11
+791,LE,Santro,Hyundai,20,4
+792,2.6 CRDe SLE,Scorpio,Mahindra,21,7
+793,T Jet Plus,Linea,Fiat,22,8
+794,1.4 SXi TDCi,Fiesta,Ford,13,5
+795,1.2 CRDi S,Xcent,Hyundai,59,4
+796,Dzire Tour LDI,Swift,Maruti,44,2
+797,Punto EVO 1.3 Dynamic,Grande,Fiat,27,8
+798,R VXI AMT,Wagon,Maruti,3,2
+799,i-DTEC SV,City,Honda,56,13
+800,LT,Captiva,Chevrolet,109,3
+801,R VXI BSII,Wagon,Maruti,3,2
+802,D 1.9 EL PS,Palio,Fiat,71,8
+803,Aura Quadrajet,Manza,Tata,17,1
+804,1.5 TDCi Titanium BSIV,EcoSport,Ford,110,5
+805,Glam,Swift,Maruti,44,2
+806,LPG STD BSIV,Omni,Maruti,18,2
+807,300 T6 Plus,TUV,Mahindra,111,7
+808,1.2 Sigma BSIV,Ignis,Maruti,106,2
+809,100 mFALCON D75 K6,KUV,Mahindra,76,7
+810,Active 1.2 SX,i20,Hyundai,48,4
+811,1.2 Kappa Base,Xcent,Hyundai,59,4
+812,1.4 AT Zeta,Ciaz,Maruti,112,2
+813,TCDi LT 7 Seater,Enjoy,Chevrolet,54,3
+814,1.4 Magna Executive,i20,Hyundai,48,4
+815,Safari DICOR 2.2 EX 4x4,New,Tata,35,1
+816,Safari DICOR 2.2 EX 4x4,New,Tata,158,19
+817,SA 6 Seater,Spacio,Tata,113,1
+818,4X2,Thar,Mahindra,114,7
+819,i DTEC E,City,Honda,56,13
+820,1.2 S Option MT,Brio,Honda,51,13
+821,2.0L VCDi,Captiva,Chevrolet,109,3
+822,1.6 CRDi SX,Creta,Hyundai,115,4
+823,Magna Plus Option,EON,Hyundai,14,4
+824,1.8 (E) MT,Civic,Honda,92,13
+825,M2DI,Scorpio,Mahindra,21,7
+826,Hatchback 1.3 TCDi,Sail,Chevrolet,50,3
+827,VDI Optional,Swift,Maruti,44,2
+828,1.5 TDI Highline,Vento,Volkswagen,60,6
+829,Plus A Option Petrol,GO,Datsun,43,12
+830,DI 4X2,Thar,Mahindra,114,7
+831,AT Leather,Sonata,Hyundai,116,4
+832,Trend,Figo,Ford,15,5
+833,Plus Remix Limited Edition,GO,Datsun,43,12
+834,Asta Option 1.4 CRDi,i20,Hyundai,48,4
+835,XL 110 PS,Terrano,Nissan,95,9
+836,TCDi LS 8 Seater,Enjoy,Chevrolet,54,3
+837,Alpha 1.3,Baleno,Maruti,89,2
+838,LXI MT BSIV,Celerio,Maruti,47,2
+839,BSIV ZXI,Ertiga,Maruti,68,2
+840,i10 1.2 Kappa Magna AT,Grand,Hyundai,64,4
+841,i10 1.2 Kappa Magna AT,Grand,Hyundai,133,15
+842,i10 1.2 Kappa Magna AT,Grand,Hyundai,134,2
+843,110PS Diesel RxZ Plus,Duster,Renault,57,10
+844,1.5D Trend MT,Figo,Ford,15,5
+845,Magna BSIV,Santro,Hyundai,20,4
+846,i10 Magna AT,Grand,Hyundai,64,4
+847,i10 Magna AT,Grand,Hyundai,133,15
+848,i10 Magna AT,Grand,Hyundai,134,2
+849,AMT VXI,Swift,Maruti,44,2
+850,85PS RxL,Lodgy,Renault,117,10
+851,800 LXI Optional,Alto,Maruti,8,2
+852,S,Jazz,Honda,97,13
+853,E4 8S,Xylo,Mahindra,46,7
+854,Petrol Highline,Vento,Volkswagen,60,6
+855,1.4 TSI Comfortline,Jetta,Volkswagen,65,6
+856,Alpha 1.2,Baleno,Maruti,89,2
+857,2.0L TDI Comfortline,Jetta,Volkswagen,65,6
+858,EVO 1.3 Dynamic,Punto,Fiat,26,8
+859,1.6 i ABS,Verna,Hyundai,24,4
+860,S i-Vtech,Amaze,Honda,63,13
+861,i VTEC V,City,Honda,56,13
+862,ZDI,Ertiga,Maruti,68,2
+863,100 mFALCON D75 K8 AW,KUV,Mahindra,76,7
+864,ZDI Leather,SX4,Maruti,30,2
+865,1.2 LT ABS,Sail,Chevrolet,50,3
+866,1.1 CRDi SX Option,Xcent,Hyundai,59,4
+867,1.2 Delta BSIV,Ignis,Maruti,106,2
+868,1.5 TDI Highline 16 Alloy,Ameo,Volkswagen,101,6
+869,Active S Petrol,i20,Hyundai,48,4
+870,Titanium Diesel BSIV,Figo,Ford,15,5
+871,1.2 Spotz,i20,Hyundai,48,4
+872,i-VTEC V MT,BRV,Honda,118,13
+873,2011-2019 SLX 2WD BSIII,Bolero,Mahindra,33,7
+874,V AT,City,Honda,56,13
+875,SLX 4WD BSIII,Bolero,Mahindra,33,7
+876,LS ABS,Sail,Chevrolet,50,3
+877,1.05 Revotorq XT Option,Tiago,Tata,37,1
+878,Safari DICOR 2.2 VX 4x4,New,Tata,35,1
+879,Safari DICOR 2.2 VX 4x4,New,Tata,158,19
+880,Delta Automatic,Baleno,Maruti,89,2
+881,1.0 T Option,RediGO,Datsun,45,12
+882,XT,Tiago,Tata,37,1
+883,1.6 Xi ABS,Verna,Hyundai,24,4
+884,1.8 MT Sport,Civic,Honda,92,13
+885,Titanium BSIV,Aspire,Ford,119,5
+886,1.5 TDI Comfortline,Ameo,Volkswagen,101,6
+887,Ambition 4WD,Yeti,Skoda,120,14
+888,Club Class Quadrajet90 LX,Manza,Tata,17,1
+889,1.5 TDI Elegance,Rapid,Skoda,52,14
+890,1.6 TDI PRESTIGE,Rapid,Skoda,52,14
+891,SLX 2.6 Turbo 8 Str,Scorpio,Mahindra,21,7
+892,VXI BSIV,Swift,Maruti,44,2
+893,1.5 Sports Edition MT,Figo,Ford,15,5
+894,CRDi M/T,Sonata,Hyundai,116,4
+895,Neo 3 9 Str BSIII,Tavera,Chevrolet,74,3
+896,SX i-VTEC,Amaze,Honda,63,13
+897,VX AT i-Vtech,Amaze,Honda,63,13
+898,1.2 Revotron XT,Tiago,Tata,37,1
+899,i10 1.2 CRDi Sportz Option,Grand,Hyundai,64,4
+900,i10 1.2 CRDi Sportz Option,Grand,Hyundai,133,15
+901,i10 1.2 CRDi Sportz Option,Grand,Hyundai,134,2
+902,i10 1.2 CRDi Asta,Grand,Hyundai,64,4
+903,i10 1.2 CRDi Asta,Grand,Hyundai,133,15
+904,i10 1.2 CRDi Asta,Grand,Hyundai,134,2
+905,100 mFALCON D75 K8,KUV,Mahindra,76,7
+906,1.4 Magna ABS,i20,Hyundai,48,4
+907,VLX 2WD AT BSIV,Scorpio,Mahindra,21,7
+908,DI DX 8 Seater,Bolero,Mahindra,33,7
+909,1.5 TDI Comfortline,Polo,Volkswagen,16,6
+910,H4,Xylo,Mahindra,46,7
+911,Classic 1.6 Duratec CLXI,Fiesta,Ford,13,5
+912,SX AT Diesel,Verna,Hyundai,24,4
+913,2.5L 4X2,Endeavour,Ford,104,5
+914,Magna AMT BSIV,Santro,Hyundai,20,4
+915,1.5D Titanium MT,Figo,Ford,15,5
+916,SHVS ZDI,Ertiga,Maruti,68,2
+917,Logan 1.6 Petrol GLSX,Renault,Mahindra,88,7
+918,RS 1.0 Petrol,Baleno,Maruti,89,2
+919,1.2 S i VTEC,Jazz,Honda,97,13
+920,XE,Harrier,Tata,121,1
+921,2.6 Turbo 7 Str,Scorpio,Mahindra,21,7
+922,ZXI BSIV,Swift,Maruti,44,2
+923,Elegance 2.0 TDI CR AT,Superb,Skoda,75,14
+924,VLX 2WD AIRBAG SE BSIV,Scorpio,Mahindra,21,7
+925,4x2 XLT,Endeavour,Ford,104,5
+926,VXI,Ertiga,Maruti,68,2
+927,SV 1.0,RediGO,Datsun,45,12
+928,Aspire 1.5 TDCi Titanium Plus,Figo,Ford,15,5
+929,Sportz AMT,Santro,Hyundai,20,4
+930,1.2 Revotron XM,Nexon,Tata,122,1
+931,Exclusive Edition,Brio,Honda,51,13
+932,LXI,Ritz,Maruti,9,2
+933,Revotron XM,Bolt,Tata,53,1
+934,100 mFALCON G80 K2 Plus,KUV,Mahindra,76,7
+935,i VTEC SV,City,Honda,56,13
+936,100 D75 K6 Plus,KUV,Mahindra,76,7
+937,VX O iDTEC,Amaze,Honda,63,13
+938,Dzire VXI,Swift,Maruti,44,2
+939,NRG Petrol,Tiago,Tata,37,1
+940,1.6 MPI AT Elegance Plus,Rapid,Skoda,52,14
+941,XV Premium 110 PS,Terrano,Nissan,95,9
+942,i10 1.2 Kappa Magna BSIV,Grand,Hyundai,64,4
+943,i10 1.2 Kappa Magna BSIV,Grand,Hyundai,133,15
+944,i10 1.2 Kappa Magna BSIV,Grand,Hyundai,134,2
+945,Power Plus LX,Bolero,Mahindra,33,7
+946,1.8 TSI,Superb,Skoda,75,14
+947,VDi,Ciaz,Maruti,112,2
+948,VTEC,City,Honda,56,13
+949,Asta,Santro,Hyundai,20,4
+950,1.3 Multijet Emotion,Linea,Fiat,22,8
+951,Asta 1.4 CRDi (Diesel),i20,Hyundai,48,4
+952,S CVT Petrol,Amaze,Honda,63,13
+953,VDi Plus SHVS,Ciaz,Maruti,112,2
+954,Aspire Facelift,Figo,Ford,15,5
+955,VXI Plus,S-Presso,Maruti,123,2
+956,ZXI Optional AMT BSIV,Celerio,Maruti,47,2
+957,EX,One,Force,124,18
+958,1.2 VX MT,Brio,Honda,51,13
+959,Lounge,500,Fiat,125,8
+960,2.5 V Diesel 8-seater,Innova,Toyota,61,11
+961,Altis Diesel D4DJ,Corolla,Toyota,70,11
+962,Active 1.2 S,i20,Hyundai,48,4
+963,1.4 CRDi,Verna,Hyundai,24,4
+964,VTi-L (MT),Accord,Honda,126,13
+965,1.2 E MT,Brio,Honda,51,13
+966,1.5 SV i DTEC,Jazz,Honda,97,13
+967,2.5 G (Diesel) 8 Seater,Innova,Toyota,61,11
+968,Liva 1.2 G,Etios,Toyota,39,11
+969,W6 2WD,XUV500,Mahindra,127,7
+970,2.4L AT,Sonata,Hyundai,116,4
+971,King Hard Top Ambulance BSIV,Gypsy,Maruti,78,2
+972,1.2 Revotron XZ Option,Tigor,Tata,107,1
+973,Era,Santro,Hyundai,20,4
+974,VDi Option SHVS,Ciaz,Maruti,112,2
+975,1.4 SXi TDCi ABS,Fiesta,Ford,13,5
+976,Crysta 2.5 VX BS IV,Innova,Toyota,61,11
+977,ZXI MT BSIV,Celerio,Maruti,47,2
+978,ZXi,Ciaz,Maruti,112,2
+979,VX Petrol BSIV,Amaze,Honda,63,13
+980,Aspire 1.5 TDCi Titanium,Figo,Ford,15,5
+981,Magnific 1.6 Highline,Vento,Volkswagen,60,6
+982,1.4 EX,Verna,Hyundai,24,4
+983,EX,Scorpio,Mahindra,21,7
+984,VDI Limited Edition,Ertiga,Maruti,68,2
+985,VX 8 Str,Supro,Mahindra,128,7
+986,Gold EX BSIII,Sumo,Tata,28,1
+987,100 D75 K4 Plus 5Str,KUV,Mahindra,76,7
+988,DICOR 2.2 EX 4x2,Safari,Tata,102,1
+989,XLT TDCi 4X2,Endeavour,Ford,104,5
+990,1.3 Delta,Ignis,Maruti,106,2
+991,1.5 TDI AT Ambition,Rapid,Skoda,52,14
+992,1.6 SX VTVT,Verna,Hyundai,24,4
+993,VLS 2.2 mHawk,Scorpio,Mahindra,21,7
+994,Magna 1.2,i20,Hyundai,48,4
+995,Power Plus SLE,Bolero,Mahindra,33,7
+996,Petrol EXI,Figo,Ford,15,5
+997,1.4 Sportz,i20,Hyundai,48,4
+998,i DTec SV,City,Honda,56,13
+999,Petrol RxL,Duster,Renault,57,10
+1000,Classic 1.3 Multijet,Linea,Fiat,22,8
+1001,2.5 G (Diesel) 7 Seater BS IV,Innova,Toyota,61,11
+1002,i10 AT Asta,Grand,Hyundai,64,4
+1003,i10 AT Asta,Grand,Hyundai,133,15
+1004,i10 AT Asta,Grand,Hyundai,134,2
+1005,S i DTEC,Mobilio,Honda,77,13
+1006,RXL AWD,Duster,Renault,57,10
+1007,S10 7 Seater,Scorpio,Mahindra,21,7
+1008,Dzire LXI,Swift,Maruti,44,2
+1009,1.5 TDI Highline,Polo,Volkswagen,16,6
+1010,1.5 E MT,City,Honda,56,13
+1011,S i-DTEC,Amaze,Honda,63,13
+1012,1.2 Asta Option,i20,Hyundai,48,4
+1013,Asta (o) 1.4 CRDi (Diesel),i20,Hyundai,48,4
+1014,300 T4 Plus,TUV,Mahindra,111,7
+1015,Storme EX,Safari,Tata,102,1
+1016,i20 Magna Plus BSIV,Elite,Hyundai,129,4
+1017,2.5 GX (Diesel) 7 Seater,Innova,Toyota,61,11
+1018,TCDi LTZ 7 Seater,Enjoy,Chevrolet,54,3
+1019,1.2 VTVT S,Xcent,Hyundai,59,4
+1020,1.2 Revotron XTA,Tiago,Tata,37,1
+1021,220 CDI,E-Class,Mercedes-Benz,130,19
+1022,2.5 G4 Diesel 8-seater,Innova,Toyota,61,11
+1023,Altis 1.8 J,Corolla,Toyota,70,11
+1024,Active SX Petrol,i20,Hyundai,48,4
+1025,CRDi S,Elantra,Hyundai,79,4
+1026,2015-2017 Sportz Option 1.4 CRDi,i20,Hyundai,48,4
+1027,VLX 2WD AIRBAG BSIV,Scorpio,Mahindra,21,7
+1028,SLE BSIII,Scorpio,Mahindra,21,7
+1029,W8 2WD,XUV500,Mahindra,127,7
+1030,1.0 Ecoboost Titanium,Ecosport,Ford,67,5
+1031,SR Petrol 1.2L,Polo,Volkswagen,16,6
+1032,VX,Jazz,Honda,97,13
+1033,Active XV Petrol,Micra,Nissan,23,9
+1034,LDI BSIV,Swift,Maruti,44,2
+1035,1.6 MPI Ambition With Alloy Wheel,Rapid,Skoda,52,14
+1036,Zeta 1.2,Baleno,Maruti,89,2
+1037,S Cross DDiS 320 Zeta,SX4,Maruti,30,2
+1038,ZDi SHVS,Ciaz,Maruti,112,2
+1039,DDiS LDI,Swift,Maruti,44,2
+1040,1.4 LT BSIV,Aveo,Chevrolet,19,3
+1041,Zeta,Baleno,Maruti,89,2
+1042,i20 Petrol Magna Exective,Elite,Hyundai,129,4
+1043,S AT i-Vtech,Amaze,Honda,63,13
+1044,i DTEC SV,City,Honda,56,13
+1045,VLX 2WD BSIII,Scorpio,Mahindra,21,7
+1046,1.5 Ti VCT AT Titanium,Ecosport,Ford,67,5
+1047,1.05 Revotorq XZ Plus,Tiago,Tata,37,1
+1048,1.2P Titanium MT,Figo,Ford,15,5
+1049,S Diesel,Amaze,Honda,63,13
+1050,1.8 V MT,Civic,Honda,92,13
+1051,Diesel Style,Fiesta,Ford,13,5
+1052,R VXI AMT1.2BSIV,Wagon,Maruti,3,2
+1053,1.2 CRDi SX,Xcent,Hyundai,59,4
+1054,E4 BS III,Xylo,Mahindra,46,7
+1055,ZDI,Swift,Maruti,44,2
+1056,i20 Sportz Plus BSIV,Elite,Hyundai,129,4
+1057,CNG 5 Seater AC BSIV,Eeco,Maruti,42,2
+1058,Titanium Diesel BSIV,Aspire,Ford,119,5
+1059,VDI (ABS) BS IV,Ritz,Maruti,9,2
+1060,2.5 GX (Diesel) 7 Seater BS IV,Innova,Toyota,61,11
+1061,Delta Diesel,Baleno,Maruti,89,2
+1062,Zeta DDiS 200 SH,S-Cross,Maruti,131,2
+1063,LDI,Swift,Maruti,44,2
+1064,1.2 V i VTEC,Jazz,Honda,97,13
+1065,100 D75 K2,KUV,Mahindra,76,7
+1066,Dzire AMT VDI,Swift,Maruti,44,2
+1067,1.6 VTVT S,Verna,Hyundai,24,4
+1068,XL 85 PS,Terrano,Nissan,95,9
+1069,Titanium Diesel BSIV,Freestyle,Ford,132,5
+1070,Active 1.4 SX,i20,Hyundai,48,4
+1071,1.2 Alpha BSIV,Ignis,Maruti,106,2
+1072,1800 ISZ MPFI PW CL,Grand,Ambassador,64,4
+1073,1800 ISZ MPFI PW CL,Grand,Ambassador,133,15
+1074,1800 ISZ MPFI PW CL,Grand,Ambassador,134,2
+1075,Zeta 1.3,Baleno,Maruti,89,2
+1076,XE D,Terrano,Nissan,95,9
+1077,Dzire LDIX Limited Edition,Swift,Maruti,44,2
+1078,Ambiente 2.0 TDI CR AT,Laura,Skoda,69,14
+1079,Vitara MT,Grand,Maruti,64,4
+1080,Vitara MT,Grand,Maruti,133,15
+1081,Vitara MT,Grand,Maruti,134,2
+1082,Series 530i,5,BMW,135,20
+1083,XZA AMT,Tiago,Tata,37,1
+1084,Hybrid,Camry,Toyota,136,11
+1085,DDiS VDI,Swift,Maruti,44,2
+1086,Corporate Edition,City,Honda,56,13
+1087,Celeste 1.5 TDI Highline AT,Vento,Volkswagen,60,6
+1088,4x4 XLT,Endeavour,Ford,104,5
+1089,King HT BSIV,Gypsy,Maruti,78,2
+1090,Safari 4X2,New,Tata,35,1
+1091,Safari 4X2,New,Tata,158,19
+1092,2.5 E Diesel MS 7-seater,Innova,Toyota,61,11
+1093,2.6 Turbo 9 Str,Scorpio,Mahindra,21,7
+1094,2.0L TDI Highline AT,Jetta,Volkswagen,65,6
+1095,i10 Nios AMT Magna,Grand,Hyundai,64,4
+1096,i10 Nios AMT Magna,Grand,Hyundai,133,15
+1097,i10 Nios AMT Magna,Grand,Hyundai,134,2
+1098,SHVS LDI,Ertiga,Maruti,68,2
+1099,VDi Plus,Ciaz,Maruti,112,2
+1100,Sportz Option 1.2,i20,Hyundai,48,4
+1101,Altis G,Corolla,Toyota,70,11
+1102,2.5 G4 Diesel 7-seater,Innova,Toyota,61,11
+1103,300 T8,TUV,Mahindra,111,7
+1104,2.6 SLX CRDe,Scorpio,Mahindra,21,7
+1105,D2 BSIV,Xylo,Mahindra,46,7
+1106,Liva VD,Etios,Toyota,39,11
+1107,2.5 GX (Diesel) 8 Seater,Innova,Toyota,61,11
+1108,1.5P Titanium AT,Figo,Ford,15,5
+1109,2.4 AT,Accord,Honda,126,13
+1110,W8 4WD,XUV500,Mahindra,127,7
+1111,Executive (HE),Corolla,Toyota,70,11
+1112,300 T4,TUV,Mahindra,111,7
+1113,1.5 S i DTEC,Jazz,Honda,97,13
+1114,XE,Altroz,Tata,137,1
+1115,VXi,Ciaz,Maruti,112,2
+1116,i10 1.2 Kappa Era,Grand,Hyundai,64,4
+1117,i10 1.2 Kappa Era,Grand,Hyundai,133,15
+1118,i10 1.2 Kappa Era,Grand,Hyundai,134,2
+1119,1.1 CRDi SX,Xcent,Hyundai,59,4
+1120,4X4,Thar,Mahindra,114,7
+1121,i DTEC V,City,Honda,56,13
+1122,ZDI Plus,Swift,Maruti,44,2
+1123,XL CVT,Micra,Nissan,23,9
+1124,Dzire LDI Optional,Swift,Maruti,44,2
+1125,i20 Sportz Plus Dual Tone BSIV,Elite,Hyundai,129,4
+1126,1.2 VTVT S AT,Xcent,Hyundai,59,4
+1127,i20 Asta Option BSIV,Elite,Hyundai,129,4
+1128,VXI Optional,Celerio,Maruti,47,2
+1129,1.5 Diesel RXT,Captur,Renault,138,10
+1130,Neo 3 LT 9 Seats BSIII,Tavera,Chevrolet,74,3
+1131,EVO 1.3 Emotion,Punto,Fiat,26,8
+1132,ZXI Plus,Swift,Maruti,44,2
+1133,E6,Xylo,Mahindra,46,7
+1134,2.4 MT,Accord,Honda,126,13
+1135,B6,Bolero,Mahindra,33,7
+1136,Safari 3L Dicor LX 4x2,New,Tata,35,1
+1137,Safari 3L Dicor LX 4x2,New,Tata,158,19
+1138,1.6 CRDi SX,Verna,Hyundai,24,4
+1139,Dzire ZXI 1.2 BS IV,Swift,Maruti,44,2
+1140,1.2 Revotron XM,Tigor,Tata,107,1
+1141,1.2 Magna Executive,i20,Hyundai,48,4
+1142,1.2 Revotron XZ Plus Dual Tone,Nexon,Tata,122,1
+1143,S i VTEC,Mobilio,Honda,77,13
+1144,1.5 DV5 MT Ambiente,Ecosport,Ford,67,5
+1145,2.5 VX (Diesel) 8 Seater BS IV,Innova,Toyota,61,11
+1146,1.8 TSI MT,Passat,Volkswagen,139,6
+1147,1.5 DV5 MT Titanium Optional,Ecosport,Ford,67,5
+1148,1.99 S4,Scorpio,Mahindra,21,7
+1149,Trend Petrol BSIV,Freestyle,Ford,132,5
+1150,LDI Optional,Swift,Maruti,44,2
+1151,VXI CNG,Ertiga,Maruti,68,2
+1152,Brezza ZDi,Vitara,Maruti,140,2
+1153,1.5 Petrol Titanium BSIV,EcoSport,Ford,110,5
+1154,DI 4X4 PS,Thar,Mahindra,114,7
+1155,VDI SHVS,Ciaz,Maruti,112,2
+1156,300 mHAWK100 T8,TUV,Mahindra,111,7
+1157,Sportz BSIV,Santro,Hyundai,20,4
+1158,1.5 Diesel Titanium Plus BSIV,EcoSport,Ford,110,5
+1159,2.5 G (Diesel) 7 Seater,Innova,Toyota,61,11
+1160,Power Plus ZLX,Bolero,Mahindra,33,7
+1161,1.4 Asta Option,i20,Hyundai,48,4
+1162,VX CVT,Jazz,Honda,97,13
+1163,SLX MT,X-Trail,Nissan,141,9
+1164,V i VTEC,Mobilio,Honda,77,13
+1165,1.5 V,Etios,Toyota,39,11
+1166,1.2 Asta Dual Tone,i20,Hyundai,48,4
+1167,Hurricane Limited Edition,Endeavour,Ford,104,5
+1168,1.5 Highline Plus AT 16 Alloy,Vento,Volkswagen,60,6
+1169,ZDi Plus,Ciaz,Maruti,112,2
+1170,1.5 E i DTEC,Jazz,Honda,97,13
+1171,2.7 TDI,A6,Audi,142,21
+1172,1.4 Delta,Ciaz,Maruti,112,2
+1173,1.2 AMT Delta BSIV,Ignis,Maruti,106,2
+1174,VX i-VTEC,Amaze,Honda,63,13
+1175,CJ 500 DI,Jeep,Mahindra,87,7
+1176,1.2 VTVT E Plus,Xcent,Hyundai,59,4
+1177,Brezza ZDi Plus,Vitara,Maruti,140,2
+1178,ZXi BSIV,Swift,Maruti,44,2
+1179,i20 Asta Option CVT BSIV,Elite,Hyundai,129,4
+1180,2.0 GX 8 STR BSIV,Innova,Toyota,61,11
+1181,Elegance 2.0 TDI CR AT,Laura,Skoda,69,14
+1182,X ZXI BSIV,Celerio,Maruti,47,2
+1183,VLX 2WD ABS AT BSIII,Scorpio,Mahindra,21,7
+1184,i-DTEC VX,WR-V,Honda,143,13
+1185,2.5 GX 7 STR,Innova,Toyota,61,11
+1186,V CVT Petrol BSIV,Amaze,Honda,63,13
+1187,Brezza VDi,Vitara,Maruti,140,2
+1188,1.5 Diesel Titanium,Ecosport,Ford,67,5
+1189,XL,Terrano,Nissan,95,9
+1190,i VTEC S,City,Honda,56,13
+1191,VX Diesel BSIV,Amaze,Honda,63,13
+1192,Zeta Automatic,Baleno,Maruti,89,2
+1193,Climber 1.0 MT Opt BSIV,KWID,Renault,29,10
+1194,1.5D Titanium Opt MT,Figo,Ford,15,5
+1195,AT W8 FWD,XUV500,Mahindra,127,7
+1196,SLE BS IV,Scorpio,Mahindra,21,7
+1197,VXD,Etios,Toyota,39,11
+1198,Safari 4X4 EX,New,Tata,35,1
+1199,Safari 4X4 EX,New,Tata,158,19
+1200,XZ,Altroz,Tata,137,1
+1201,SHVS ZDI Plus,Ertiga,Maruti,68,2
+1202,i10 1.2 Kappa Sportz AT,Grand,Hyundai,64,4
+1203,i10 1.2 Kappa Sportz AT,Grand,Hyundai,133,15
+1204,i10 1.2 Kappa Sportz AT,Grand,Hyundai,134,2
+1205,Brezza VDi Option,Vitara,Maruti,140,2
+1206,i-VTEC VX MT,BR-V,Honda,144,13
+1207,AT W10 AWD,XUV500,Mahindra,127,7
+1208,Titanium Plus BSIV,Aspire,Ford,119,5
+1209,ZXi Plus,Ciaz,Maruti,112,2
+1210,Brezza LDi Option,Vitara,Maruti,140,2
+1211,i-VTEC VX,WR-V,Honda,143,13
+1212,Altis D-4D J,Corolla,Toyota,70,11
+1213,2015-2019 1.2 MPI Highline,Polo,Volkswagen,16,6
+1214,XV,Evalia,Nissan,145,9
+1215,Ambition 4X2,Yeti,Skoda,120,14
+1216,VVT ZXI,Swift,Maruti,44,2
+1217,i10 Asta Option AT,Grand,Hyundai,64,4
+1218,i10 Asta Option AT,Grand,Hyundai,133,15
+1219,i10 Asta Option AT,Grand,Hyundai,134,2
+1220,N8,NuvoSport,Mahindra,146,7
+1221,2.5 VX 8 STR,Innova,Toyota,61,11
+1222,2.5 VX (Diesel) 8 Seater,Innova,Toyota,61,11
+1223,CRDe,Thar,Mahindra,114,7
+1224,Power Plus Plus Non AC BSIV PS,Bolero,Mahindra,33,7
+1225,Dzire VDI Optional,Swift,Maruti,44,2
+1226,BSIV,Scorpio,Mahindra,21,7
+1227,S2 7 Seater,Scorpio,Mahindra,21,7
+1228,1.6 VTVT SX,Verna,Hyundai,24,4
+1229,Brezza ZDi Plus AMT,Vitara,Maruti,140,2
+1230,1.5 TDI Highline AT,Vento,Volkswagen,60,6
+1231,i20 Magna Plus Diesel,Elite,Hyundai,129,4
+1232,Fe 4X4,Santa,Hyundai,147,4
+1233,1.5 Diesel Ambiente BSIV,EcoSport,Ford,110,5
+1234,1.4 VXD,Etios,Toyota,39,11
+1235,1.6 CRDi SX Option,Creta,Hyundai,115,4
+1236,Asta Option 1.2,i20,Hyundai,48,4
+1237,Titanium Plus Diesel BSIV,Freestyle,Ford,132,5
+1238,1.5 Petrol Ambiente,Ecosport,Ford,67,5
+1239,300 T10 Dual Tone,TUV,Mahindra,111,7
+1240,1.6 MPI AT Ambition BSIV,Rapid,Skoda,52,14
+1241,ZXI AT,Celerio,Maruti,47,2
+1242,Active S Diesel,i20,Hyundai,48,4
+1243,1.4 E Plus,Creta,Hyundai,115,4
+1244,Dzire AMT ZXI Plus BS IV,Swift,Maruti,44,2
+1245,1.6 Gamma SX Plus,Creta,Hyundai,115,4
+1246,R ZXI 1.2,Wagon,Maruti,3,2
+1247,2.4,Outlander,Mitsubishi,148,22
+1248,Delta DDiS 200 SH,S-Cross,Maruti,131,2
+1249,W10 1.99 mHawk,XUV500,Mahindra,127,7
+1250,E250 CDI Elegance,E-Class,Mercedes-Benz,130,19
+1251,S 1.3,Ciaz,Maruti,112,2
+1252,i20 Diesel Era,Elite,Hyundai,129,4
+1253,1.6 VTVT AT S Option,Verna,Hyundai,24,4
+1254,M2 8Str,Marazzo,Mahindra,149,7
+1255,Monte Carlo 1.6 MPI AT BSIV,Rapid,Skoda,52,14
+1256,1.5 Petrol Trend,Ecosport,Ford,67,5
+1257,1.5 Revotorq XZ,Nexon,Tata,122,1
+1258,i-VTEC SV,City,Honda,56,13
+1259,Sigma DDiS 200 SH,S-Cross,Maruti,131,2
+1260,XL P,Terrano,Nissan,95,9
+1261,1.5 VDI,Ertiga,Maruti,68,2
+1262,VTVT 1.6 SX,Verna,Hyundai,24,4
+1263,1.5 V i DTEC,Jazz,Honda,97,13
+1264,Titanium Plus Diesel BSIV,Aspire,Ford,119,5
+1265,i DTec V,City,Honda,56,13
+1266,Storme VX Varicor 400,Safari,Tata,102,1
+1267,1.99 S6 Plus,Scorpio,Mahindra,21,7
+1268,2.5 VX (Diesel) 7 Seater,Innova,Toyota,61,11
+1269,ZDi,Ciaz,Maruti,112,2
+1270,Delta 1.3,Baleno,Maruti,89,2
+1271,VLX 2.2 mHawk Airbag BSIV,Scorpio,Mahindra,21,7
+1272,Aspire 1.5 Ti-VCT Titanium,Figo,Ford,15,5
+1273,Dzire AMT VXI,Swift,Maruti,44,2
+1274,Altis Diesel D4DGL,Corolla,Toyota,70,11
+1275,1.5 Diesel Trend Plus BSIV,EcoSport,Ford,110,5
+1276,2.8 SFX BSIV Dual Tone,Pajero,Mitsubishi,150,22
+1277,CRDi 1.6 EX,Verna,Hyundai,24,4
+1278,1.5 TDI Highline,Ameo,Volkswagen,101,6
+1279,Alpha DDiS 200 SH,S-Cross,Maruti,131,2
+1280,1.5 Diesel Titanium BSIV,EcoSport,Ford,110,5
+1281,ZDi Plus SHVS,Ciaz,Maruti,112,2
+1282,M4,Marazzo,Mahindra,149,7
+1283,Dzire ZXI Plus,Swift,Maruti,44,2
+1284,VTVT 1.6 AT SX Option,Verna,Hyundai,24,4
+1285,CRDe AC,Thar,Mahindra,114,7
+1286,Titanium 4X2,Endeavour,Ford,104,5
+1287,1.5 Petrol Titanium Plus AT BSIV,EcoSport,Ford,110,5
+1288,Dzire AMT ZXI,Swift,Maruti,44,2
+1289,Titanium Diesel,Freestyle,Ford,132,5
+1290,CRDi SX,Elantra,Hyundai,79,4
+1291,i-DTEC VX MT,BR-V,Honda,144,13
+1292,i10 Nios Sportz,Grand,Hyundai,64,4
+1293,i10 Nios Sportz,Grand,Hyundai,133,15
+1294,i10 Nios Sportz,Grand,Hyundai,134,2
+1295,85PS Diesel RxZ,Duster,Renault,57,10
+1296,LK 1.8 TSI AT,Superb,Skoda,75,14
+1297,Titanium,Figo,Ford,15,5
+1298,Dzire VXI 1.2 BS IV,Swift,Maruti,44,2
+1299,i-DTEC V,City,Honda,56,13
+1300,S4 4WD,Scorpio,Mahindra,21,7
+1301,Sport 4X4,Pajero,Mitsubishi,150,22
+1302,2.5 Z Diesel 7 Seater BS IV,Innova,Toyota,61,11
+1303,CRDi 1.6 AT EX,Verna,Hyundai,24,4
+1304,2.0 Diesel,Koleos,Renault,151,10
+1305,i-DTEC V,WR-V,Honda,143,13
+1306,Liva 1.2 VX,Etios,Toyota,39,11
+1307,S Petrol BSIV,Amaze,Honda,63,13
+1308,BSIV VXI AT,Ertiga,Maruti,68,2
+1309,VXi Plus,Ciaz,Maruti,112,2
+1310,Select Edition,Jazz,Honda,97,13
+1311,H8 ABS with Airbags,Xylo,Mahindra,46,7
+1312,1.5 Ti VCT MT Trend BSIV,EcoSport,Ford,110,5
+1313,i-VTEC S MT,BR-V,Honda,144,13
+1314,Facelift,S-Cross,Maruti,131,2
+1315,SHVS LDI Option,Ertiga,Maruti,68,2
+1316,Titanium Plus Diesel,Freestyle,Ford,132,5
+1317,ZXI,Ertiga,Maruti,68,2
+1318,RXT BSIV,Triber,Renault,152,10
+1319,V MT,City,Honda,56,13
+1320,Brezza LDi,Vitara,Maruti,140,2
+1321,1.4 CRDi Base,Creta,Hyundai,115,4
+1322,SX Opt Diesel,Venue,Hyundai,153,4
+1323,sDrive20d,X1,BMW,154,20
+1324,1.3 Delta,Ciaz,Maruti,112,2
+1325,Brezza ZDi Plus Dual Tone,Vitara,Maruti,140,2
+1326,1.5 Petrol Titanium Plus AT,Ecosport,Ford,67,5
+1327,1.5 TDCi Titanium Plus BE BSIV,EcoSport,Ford,110,5
+1328,Aspire Titanium Plus Diesel,Figo,Ford,15,5
+1329,1.4 Alpha,Ciaz,Maruti,112,2
+1330,Stepway 85PS RXZ 8S,Lodgy,Renault,117,10
+1331,1.5 Ti VCT MT Titanium BE BSIV,EcoSport,Ford,110,5
+1332,i-VTEC CVT VX,City,Honda,56,13
+1333,Urban Cross 1.3 Multijet Emotion,Avventura,Fiat,86,8
+1334,i10 Nios Magna CRDi,Grand,Hyundai,64,4
+1335,i10 Nios Magna CRDi,Grand,Hyundai,133,15
+1336,i10 Nios Magna CRDi,Grand,Hyundai,134,2
+1337,1.5 TDI Highline Plus AT,Vento,Volkswagen,60,6
+1338,1.4 EX Diesel,Creta,Hyundai,115,4
+1339,1.5 TDI AT Ambition BSIV,Rapid,Skoda,52,14
+1340,S7 140 BSIV,Scorpio,Mahindra,21,7
+1341,2.5 VX 8 STR BSIV,Innova,Toyota,61,11
+1342,1.2 VX i VTEC,Jazz,Honda,97,13
+1343,Brezza ZDi Plus AMT Dual Tone,Vitara,Maruti,140,2
+1344,1.2 Revotron XZ Plus,Nexon,Tata,122,1
+1345,V,Jazz,Honda,97,13
+1346,1.5 Diesel Trend BSIV,EcoSport,Ford,110,5
+1347,1.6 SX Option,Creta,Hyundai,115,4
+1348,110PS Diesel RxZ AWD,Duster,Renault,57,10
+1349,1.5 TDI Ambition BSIV,Rapid,Skoda,52,14
+1350,1.5 TDI Highline Plus 16,Ameo,Volkswagen,101,6
+1351,1.6 CRDi SX Plus,Creta,Hyundai,115,4
+1352,XT,Hexa,Tata,155,1
+1353,XTA,Hexa,Tata,155,1
+1354,1.6 VTVT S,Creta,Hyundai,115,4
+1355,1.4 Zeta,Ciaz,Maruti,112,2
+1356,i VTEC VX,City,Honda,56,13
+1357,2.5 GX (Diesel) 8 Seater BS IV,Innova,Toyota,61,11
+1358,1.6 SX Automatic Diesel,Creta,Hyundai,115,4
+1359,1.6 CRDI SX Option,Verna,Hyundai,24,4
+1360,1.0 Ecoboost Platinum Edition BSIV,Ecosport,Ford,67,5
+1361,SX Opt Turbo BSIV,Venue,Hyundai,153,4
+1362,2.0 TDI 177 Bhp Premium Plus,A4,Audi,156,21
+1363,XM,Hexa,Tata,155,1
+1364,CRDi 1.6 SX Option,Verna,Hyundai,24,4
+1365,1.2 AMT Alpha BSIV,Ignis,Maruti,106,2
+1366,V Diesel BSIV,Amaze,Honda,63,13
+1367,Series 730Ld,7,BMW,157,20
+1368,Active 1.4 SX with AVN,i20,Hyundai,48,4
+1369,i-VTEC VX,City,Honda,56,13
+1370,Alpha,Baleno,Maruti,89,2
+1371,i20 Petrol Asta Option,Elite,Hyundai,129,4
+1372,280 CDI Elegance,E-Class,Mercedes-Benz,130,19
+1373,B4,Bolero,Mahindra,33,7
+1374,Edge Edition Diesel SV,City,Honda,56,13
+1375,E i DTEC,Mobilio,Honda,77,13
+1376,300 T10,TUV,Mahindra,111,7
+1377,CRDi 1.6 SX,Verna,Hyundai,24,4
+1378,2.8 FSI,A6,Audi,142,21
+1379,300 T8 AMT,TUV,Mahindra,111,7
+1380,2.0 TDI Premium Plus,A6,Audi,142,21
+1381,Titanium,Freestyle,Ford,132,5
+1382,M/t,Camry,Toyota,136,11
+1383,1.5 Ti VCT MT Titanium BSIV,EcoSport,Ford,110,5
+1384,2.0L TDI Highline,Jetta,Volkswagen,65,6
+1385,Elegance 2.0 TDI AT,Octavia,Skoda,99,14
+1386,CRDi 1.6 AT SX Option,Verna,Hyundai,24,4
+1387,1.4 CRDi S,Creta,Hyundai,115,4
+1388,2.5 VX (Diesel) 7 Seater BS IV,Innova,Toyota,61,11
+1389,SX,Elantra,Hyundai,79,4
+1390,1.4 CRDi S Plus,Creta,Hyundai,115,4
+1391,Sports Petrol,Ecosport,Ford,67,5
+1392,2.5 G1 BSIV,Innova,Toyota,61,11
+1393,Crysta 2.4 VX MT BSIV,Innova,Toyota,61,11
+1394,GTI,Polo,Volkswagen,16,6
+1395,Zeta BSIV,Ciaz,Maruti,112,2
+1396,i20 Sportz Plus CVT BSIV,Elite,Hyundai,129,4
+1397,W10 2WD,XUV500,Mahindra,127,7
+1398,1.5 DV5 MT Trend,Ecosport,Ford,67,5
+1399,ZXI AT Petrol,Ertiga,Maruti,68,2
+1400,1.6 SX Automatic,Creta,Hyundai,115,4
+1401,i20 Diesel Asta Option,Elite,Hyundai,129,4
+1402,300 Plus P4,TUV,Mahindra,111,7
+1403,Titanium Plus,Freestyle,Ford,132,5
+1404,W11 Option AWD,XUV500,Mahindra,127,7
+1405,C-Class 200 CDI Classic,New,Mercedes-Benz,35,1
+1406,C-Class 200 CDI Classic,New,Mercedes-Benz,158,19
+1407,1.8 TFSI,A4,Audi,156,21
+1408,W5 BSIV,XUV500,Mahindra,127,7
+1409,S6 Plus 7 Seater,Scorpio,Mahindra,21,7
+1410,Series 525d Sedan,5,BMW,135,20
+1411,GT 1.0 TSI,Polo,Volkswagen,16,6
+1412,i-DTEC VX,City,Honda,56,13
+1413,3.0L 4X4 AT,Endeavour,Ford,104,5
+1414,2.0 TDI Quattro Premium Plus,Q3,Audi,159,21
+1415,G,Yaris,Toyota,160,11
+1416,1.5 Diesel RXT Mono,Captur,Renault,138,10
+1417,1.0 TSI Highline Plus,Polo,Volkswagen,16,6
+1418,4x4 MT,Fortuner,Toyota,161,11
+1419,VX CVT,City,Honda,56,13
+1420,W8 Option Diesel BSIV,XUV300,Mahindra,162,7
+1421,W8 Option,XUV300,Mahindra,162,7
+1422,3.2 MT,Montero,Mitsubishi,163,22
+1423,Sigma BSIV,Ciaz,Maruti,112,2
+1424,i-VTEC ZX,City,Honda,56,13
+1425,1.6 E Plus,Creta,Hyundai,115,4
+1426,H4 ABS,Xylo,Mahindra,46,7
+1427,Series 320d Sport,3,BMW,164,20
+1428,VXI Petrol,Ertiga,Maruti,68,2
+1429,W7 BSIV,XUV500,Mahindra,127,7
+1430,1.4 Sport Plus BSIV,Compass,Jeep,165,23
+1431,V-Cross Standard,D-Max,Isuzu,166,24
+1432,AT W10 FWD,XUV500,Mahindra,127,7
+1433,Crysta 2.4 ZX MT,Innova,Toyota,61,11
+1434,1.5 Revotorq XM,Nexon,Tata,122,1
+1435,Fe 4WD AT,Santa,Hyundai,147,4
+1436,1.5 TDCi Ambiente,Fiesta,Ford,13,5
+1437,S11 BSIV,Scorpio,Mahindra,21,7
+1438,S2 9 Seater,Scorpio,Mahindra,21,7
+1439,CRDe ABS,Thar,Mahindra,114,7
+1440,HTK Plus AT D,Seltos,Kia,167,25
+1441,Alpha CVT,Baleno,Maruti,89,2
+1442,E 200 CGI Elegance,E-Class,Mercedes-Benz,130,19
+1443,i-VTEC CVT ZX,City,Honda,56,13
+1444,XL Plus ICC WT20 SE,Terrano,Nissan,95,9
+1445,W6 1.99 mHawk,XUV500,Mahindra,127,7
+1446,1.6 VTVT AT SX Plus,Creta,Hyundai,115,4
+1447,3.0 Diesel,Fortuner,Toyota,161,11
+1448,1.6 CRDi AT SX Plus,Creta,Hyundai,115,4
+1449,Altis 1.8 GL,Corolla,Toyota,70,11
+1450,1.5 TDI AT Style BSIV,Rapid,Skoda,52,14
+1451,M8 8Str,Marazzo,Mahindra,149,7
+1452,ZDI Plus,Ertiga,Maruti,68,2
+1453,Crysta 2.4 G MT BSIV,Innova,Toyota,61,11
+1454,1.5 Diesel Titanium Plus,Ecosport,Ford,67,5
+1455,Altis G AT,Corolla,Toyota,70,11
+1456,2.0 TDI,Q5,Audi,168,21
+1457,280 CDI,E-Class,Mercedes-Benz,130,19
+1458,1.6 CRDi AT SX,Verna,Hyundai,24,4
+1459,1.5 TDCi Titanium Plus BSIV,EcoSport,Ford,110,5
+1460,2.5 GX 7 STR BSIV,Innova,Toyota,61,11
+1461,W7,XUV500,Mahindra,127,7
+1462,S5 BSIV,Scorpio,Mahindra,21,7
+1463,1.5 Petrol Titanium Plus,Ecosport,Ford,67,5
+1464,E250 Edition E,E-Class,Mercedes-Benz,130,19
+1465,S9 BSIV,Scorpio,Mahindra,21,7
+1466,2.0 TFSI Quattro,Q5,Audi,168,21
+1467,XL D BSIV,Kicks,Nissan,169,9
+1468,i-DTEC ZX,City,Honda,56,13
+1469,1.5 TDI Highline BSIV,Vento,Volkswagen,60,6
+1470,C-Class C 220 CDI Avantgarde,New,Mercedes-Benz,35,1
+1471,C-Class C 220 CDI Avantgarde,New,Mercedes-Benz,158,19
+1472,2.0 e-VGT 2WD MT,Tucson,Hyundai,108,4
+1473,3.0 TDI Quattro,A4,Audi,156,21
+1474,1.9 TDI Trendline,Jetta,Volkswagen,65,6
+1475,C-Class 220 CDI AT,New,Mercedes-Benz,35,1
+1476,C-Class 220 CDI AT,New,Mercedes-Benz,158,19
+1477,Altis GL MT,Corolla,Toyota,70,11
+1478,D3 Kinetic,XC60,Volvo,170,26
+1479,Crysta 2.4 GX AT,Innova,Toyota,61,11
+1480,1.6 SX,Creta,Hyundai,115,4
+1481,230,E-Class,Mercedes-Benz,130,19
+1482,2.0 TDI,A4,Audi,156,21
+1483,3.2 Titanium AT 4X4,Endeavour,Ford,104,5
+1484,5.0 Litre V8 Petrol,XF,Jaguar,171,27
+1485,35 TDI Quattro Premium,Q7,Audi,172,21
+1486,Class B180 Sports,B,Mercedes-Benz,173,19
+1487,i-DTEC V MT,BRV,Honda,118,13
+1488,sDrive20d M Sport,X1,BMW,154,20
+1489,sDrive 20d Exclusive,X1,BMW,154,20
+1490,Series 320d Luxury Line,3,BMW,164,20
+1491,2.0 Longitude Option BSIV,Compass,Jeep,165,23
+1492,1.5 TDI Highline Plus AT BSIV,Vento,Volkswagen,60,6
+1493,W10 AWD,XUV500,Mahindra,127,7
+1494,Crysta 2.8 GX AT BSIV,Innova,Toyota,61,11
+1495,Thunder Edition Diesel,Ecosport,Ford,67,5
+1496,2.0 SX AT,Elantra,Hyundai,79,4
+1497,AT W10 1.99 mHawk,XUV500,Mahindra,127,7
+1498,AT W6 2WD,XUV500,Mahindra,127,7
+1499,D5 Inscription,XC60,Volvo,170,26
+1500,Crysta 2.4 VX MT 8S BSIV,Innova,Toyota,61,11
+1501,L 3.0 TDI quattro,A8,Audi,174,21
+1502,2.0 TDI  Design Edition,A6,Audi,142,21
+1503,Hybrid 2.5,Camry,Toyota,136,11
+1504,Altis 1.8 VL CVT,Corolla,Toyota,70,11
+1505,2.0 e-VGT 2WD AT GL,Tucson,Hyundai,108,4
+1506,Smart AT,Hector,MG,175,28
+1507,XV Premium D BSIV,Kicks,Nissan,169,9
+1508,XZ BSIV,Harrier,Tata,121,1
+1509,C-Class C 220 CDI BE Avantgare,New,Mercedes-Benz,35,1
+1510,C-Class C 220 CDI BE Avantgare,New,Mercedes-Benz,158,19
+1511,sDrive 20d xLine,X1,BMW,154,20
+1512,4x2 AT,Fortuner,Toyota,161,11
+1513,Series 320d Sport Line,3,BMW,164,20
+1514,Diesel 4WD,CR-V,Honda,176,13
+1515,XT 4X4,Hexa,Tata,155,1
+1516,35 TDI Premium,A4,Audi,156,21
+1517,New  2.0 TDI Multitronic,A4,Audi,156,21
+1518,3.0 Litre S Premium Luxury,XF,Jaguar,171,27
+1519,W7 AT BSIV,XUV500,Mahindra,127,7
+1520,Titanium Plus 4X4,Endeavour,Ford,104,5
+1521,Sharp Diesel MT BSIV,Hector,MG,175,28
+1522,C-Class C 220 CDI Grand Edition,New,Mercedes-Benz,35,1
+1523,C-Class C 220 CDI Grand Edition,New,Mercedes-Benz,158,19
+1524,W11 AT BSIV,XUV500,Mahindra,127,7
+1525,Series 520d Luxury Line,5,BMW,135,20
+1526,2.2 Litre Luxury,XF,Jaguar,171,27
+1527,4.2 TDI,A8,Audi,174,21
+1528,2.2 Titanium AT 4X2,Endeavour,Ford,104,5
+1529,W11 Option AT AWD,XUV500,Mahindra,127,7
+1530,Crysta 2.8 ZX AT BSIV,Innova,Toyota,61,11
+1531,D3 R Design,V40,Volvo,177,26
+1532,Range Rover Evoque 2.2L Dynamic,Rover,Land,178,29
+1533,2.0 TFSI Quattro Premium Plus,Q5,Audi,168,21
+1534,4x2 Manual,Fortuner,Toyota,161,11
+1535,Crysta 2.4 GX MT 8S BSIV,Innova,Toyota,61,11
+1536,Crysta 2.4 VX MT,Innova,Toyota,61,11
+1537,30 TFSI Technology,A4,Audi,156,21
+1538,2.5 Hybrid,Camry,Toyota,136,11
+1539,2.8 2WD AT BSIV,Fortuner,Toyota,161,11
+1540,Progressive C 220d,C-Class,Mercedes-Benz,179,19
+1541,E250 CDI Blue Efficiency,E-Class,Mercedes-Benz,130,19
+1542,35 TDI Quattro Technology,Q3,Audi,159,21
+1543,2.7 2WD AT,Fortuner,Toyota,161,11
+1544,ML 350 CDI,M-Class,Mercedes-Benz,180,19
+1545,5.0 L V8 Supercharged,XJ,Jaguar,181,27
+1546,2.8 4WD AT BSIV,Fortuner,Toyota,161,11
+1547,G4 4X2 AT BSIV,Alturas,Mahindra,182,7
+1548,3.0 TDI Quattro Technology,Q5,Audi,168,21
+1549,Series GT Luxury Line,3,BMW,164,20
+1550,xDrive 30d xLine,X5,BMW,183,20
+1551,Exclusive E 200 BSIV,E-Class,Mercedes-Benz,130,19
+1552,Series Signature 730Ld,7,BMW,157,20
+1553,350 CDI Blue Efficiency,GL-Class,Mercedes-Benz,184,19
+1554,Range Rover 4.4 Diesel LWB Vogue SE,Rover,Land,178,29
+1555,Discovery Sport SD4 HSE Luxury,Rover,Land,178,29
+1556,90 D5 Inscription BSIV,XC,Volvo,185,26
+1557,Discovery S 2.0 SD4,Rover,Land,178,29
+1558,35 TDI Premium Plus,A4,Audi,156,21
+1559,Discovery Sport TD4 HSE 7S,Rover,Land,178,29
+1560,2016-2020 350d 4MATIC,GLS,Mercedes-Benz,186,19
+1561,Sportback,A5,Audi,187,21
+1562,2015-2019 Sportback Performance,RS7,Audi,188,21
+1563,S 350d Connoisseurs Edition,S-Class,Mercedes-Benz,189,19
