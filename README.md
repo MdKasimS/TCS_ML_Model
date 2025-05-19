@@ -12,3 +12,7 @@ The car is inspected by getting parameters such as
 and predicts it selling price.
 This repo is pipeline for Car's data in which - data is preprocessed, trained over various model, depending upon best accuracy suitable model is dumped as pickle file for further REST API creation.
 
+## Further Database Preparation
+
+Depending upon business needs and application logic, preprocessed data is separated into different tables to create initial database for application to run mimicing live data.
+
